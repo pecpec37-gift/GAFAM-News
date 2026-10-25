@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-25",
+  "label": "10月25日（日）号",
+  "coverage": "10月19日〜25日",
+  "minutes": 5,
+  "points": [
+    "Metaの7〜9月期は売上が予想超え。ただし約99億ドルの和解費用で営業利益は37%減",
+    "Apple初の折りたたみ「iPhone Duo」が23日に発売。初回分は即完売",
+    "Google・Amazon・Microsoftが相次いで「NVIDIA以外のAIチップ」を使いやすくする動き",
+    "来週はMicrosoft・Google（28日）、Amazon（29日）の決算が集中"
+  ],
+  "items": [
+    {
+      "co": "meta",
+      "headline": "Meta、7〜9月期は売上26%増。巨額和解で営業利益は大幅減",
+      "body": "21日に発表した2026年7〜9月期決算は、売上高が前年同期比26%増の646億ドルで、市場予想（約633億ドル）を上回りました。一方、8月に米国の48州と結んだ和解に関連する98.9億ドルの費用を計上し、営業利益は37%減の129.9億ドルに。AIエージェント「Muse」のアカウント数は1,000万を超えたとザッカーバーグCEOが明らかにしました。10〜12月期の売上見通しは730〜760億ドルで、発表後の時間外取引で株価は約3%上昇しました。",
+      "why": "本業の広告は好調。AI投資と訴訟コストを、広告の伸びでどこまで吸収できるかが今後の焦点です。",
+      "src": "AP通信（WDBO掲載）",
+      "url": "https://www.wdbo.com/news/business/meta-q3-revenue-tops/LJSNKSJRPQ4XHC7YWQH2BFT3LE/"
+    },
+    {
+      "co": "apple",
+      "headline": "折りたたみ「iPhone Duo」発売。初回在庫は即日完売",
+      "body": "Apple初の折りたたみスマホ「iPhone Duo」が23日に発売されました。米国価格は1,999ドルからで、最上位モデルは3,199ドル。21日に解禁されたレビューでは、折り目がほとんど見えない点が高く評価された一方、重さを指摘する声が目立ちました。16日の予約開始直後に発売日分は売り切れ、カナダでは新規注文の届け日が2027年2月までずれ込んでいます。9月に就任したジョン・ターナスCEOのもとで初の新カテゴリー製品です。",
+      "why": "高価格帯でも需要が強いことを示す材料。供給がいつ追いつくかが年末商戦の売上を左右します。",
+      "src": "iPhone in Canada",
+      "url": "https://www.iphoneincanada.ca/2026/10/21/iphone-duo-reviews-roundup/"
+    },
+    {
+      "co": "apple",
+      "headline": "28日にロサンゼルスで新製品イベント。新型Macに注目",
+      "body": "Appleは10月28日にロサンゼルスで報道関係者向けイベントを開く予定です。M6チップを載せたMacBook ProやiMac、有機ELのiPad miniなどが登場すると報じられています（いずれも未確定）。11月2日には7〜9月期決算も控えています。",
+      "why": "Duoに続く「秋の第2弾」。Macの買い替えを考えている人は発表を待つ価値があります。",
+      "src": "Macworld",
+      "url": "https://www.macworld.com/article/671090/new-apple-products-2026.html"
+    },
+    {
+      "co": "google",
+      "headline": "Google、自社AIチップTPUをPyTorchでそのまま使える「TorchTPU」を公開",
+      "body": "Googleは21日、AI開発で広く使われるフレームワーク「PyTorch」から、自社AIチップTPUを直接使えるようにする「TorchTPU」をオープンソースで公開しました。Metaの開発チームと共同開発したもので、既存のプログラムは使う機器の指定を1行書き換えるだけで動くとしています。同じ日には、OpenAIのAIモデルがGoogle Cloudで使えるようになることも発表されました。",
+      "why": "AI開発者の多くはNVIDIA製GPU向けの環境に慣れています。乗り換えの手間を減らし、自社クラウドへ呼び込む狙いです。",
+      "src": "AI Weekly",
+      "url": "https://aiweekly.co/ai-news-today/edition/2026-10-21"
+    },
+    {
+      "co": "google",
+      "headline": "Gemini、Android Autoで「あなた専用」の受け答えに",
+      "body": "Googleは、Gmailやカレンダー、写真、マップなどの情報を踏まえて答える「Personal Intelligence」機能を、車載向けのAndroid AutoのGeminiにも広げ始めました。運転中に「次の予定の場所まで案内して」のような自然な言い方で頼めるようになります。",
+      "why": "スマホの外、車の中でもGeminiを日常の入り口にする動き。28日の決算ではAIの収益化が問われます。",
+      "src": "AI Weekly",
+      "url": "https://aiweekly.co/ai-news-today/edition/2026-10-21"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazon、ドイツに来年160億ユーロ投資。米国で年末30万人を採用",
+      "body": "Amazonは20日、ベルリンで開かれた政府主催の投資サミットで、2027年にドイツへ160億ユーロ超（約2.6兆円）を投資すると発表しました。うち48億ユーロはAWSのクラウド・AI設備に充てます。米国では年末商戦に向けて30万人超の季節雇用を進め、2027年1月からは条件を満たす季節従業員に初日から医療保険を提供します。AIチップ「Trainium」をPyTorch開発者がそのまま使えるようにする取り組みも発表しました。",
+      "why": "欧州でのデータセンター拡大と年末の物流強化を同時に進めています。29日の決算ではAWSの成長率が最大の注目点です。",
+      "src": "About Amazon",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Microsoft、自社AIチップ「Maia 300」を2027年から本格投入へ",
+      "body": "Microsoftは今月、自社開発のAIチップ「Maia 300」を発表しました。消費電力あたりの処理量が主要なGPUシステムより約40%多いと説明しており、2027年から本番運用を始め、CopilotなどのAIサービスを動かす主力にする計画です。来年は100万個を超えるチップを導入する可能性があると報じられています。28日の決算では、四半期で500億ドル超としている設備投資の中身が注目されます。",
+      "why": "AIを動かすコストを下げられれば、利益率の改善につながります。ただし効果が数字に出るのは2027年以降です。",
+      "src": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/10/13/microsoft-just-took-its-biggest-step-toward-independence-from-nvidia/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIチップの「脱NVIDIA」",
+    "body": "GoogleのTorchTPU、AmazonのTrainium対応、MicrosoftのMaia 300。3社とも、AI開発者が使い慣れた道具のまま自社チップへ移れるようにしています。巨額のAI投資を続けるなか、計算コストを自前で下げたいという思惑が共通しています。"
+  },
+  "calendar": [
+    { "when": "10/29（木）早朝", "what": "Microsoft・Alphabet（Google）決算", "co": "microsoft" },
+    { "when": "10/29（木）", "what": "Apple 新製品イベント（米国28日）", "co": "apple" },
+    { "when": "10/30（金）早朝", "what": "Amazon 決算", "co": "amazon" },
+    { "when": "11/3（火）早朝", "what": "Apple 決算", "co": "apple" }
+  ]
+}
