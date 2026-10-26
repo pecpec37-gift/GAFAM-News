@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-27",
+  "label": "10月27日（火）号",
+  "coverage": "10月26日〜27日",
+  "minutes": 5,
+  "points": [
+    "Metaが株式で最大950億ドル規模のAI資金調達に動いたと報道。新株は2027年1月に上場予定",
+    "Appleの28日イベントはiPad miniや新iMacも見込み。MacBook Proは有機EL・タッチ対応と報道（未確定）",
+    "Google・Microsoftは29日朝、Amazonは30日朝に決算。AI投資の回収が焦点",
+    "MicrosoftはCopilotでAnthropicに年20億ドル超を払う見通しと報道"
+  ],
+  "items": [
+    {
+      "co": "meta",
+      "headline": "Meta、AI資金で株式の大型調達へ。最大950億ドルと報道",
+      "body": "Metaは26日（米国時間）、AI向けデータセンターの資金を集めるため、株式による大型の調達に動きました。SEC（米証券取引委員会）への提出書類では、まず225億ドル分の株を後日売る契約を結び、新設する議決権なしの「クラスC株」を最大600億ドル分、市場で少しずつ売る枠も設けます。報道では全体で最大950億ドル規模です。クラスC株は2027年1月19日の発効を予定しています。",
+      "why": "AI投資は借入や手元資金だけでは足りない規模になっています。株が増えると1株あたりの価値が薄まる点が、投資家の気になるところです。",
+      "src": "SEC提出書類（目論見書補足）",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000119312526431040/d94886d424b5.htm"
+    },
+    {
+      "co": "apple",
+      "headline": "Appleの28日イベント、iPad miniや新iMacも登場か",
+      "body": "Appleは28日午前10時（米西海岸時間、日本時間29日午前2時）にロサンゼルスで「Pro and Tell」と名づけた発表イベントを開きます。ブルームバーグの報道では、有機ELのタッチ対応MacBook Pro（14・16インチ）が目玉です。そのほか、有機ELに変わる新型iPad mini、M6チップの新型iMacと入門向けMacBook Proも見込まれます。いずれも未確定の報道です。店舗の準備状況から、発売は11月6日ごろとの推測も出ています。",
+      "why": "Macの新製品が複数まとまって出る珍しい機会です。タッチ画面の採用は、パソコンの使い方に関わる大きな方針転換になります。",
+      "src": "AppleInsider",
+      "url": "https://appleinsider.com/articles/26/10/19/oled-ipad-mini-and-touchscreen-macbook-pro-what-to-expect-from-pro-and-tell"
+    },
+    {
+      "co": "google",
+      "headline": "Google決算、クラウドの伸びとAIチップ販売に注目",
+      "body": "Alphabetは28日（日本時間29日早朝）に7〜9月期決算を発表します。バンク・オブ・アメリカのアナリストは、Google Cloudの売上の伸びを93%と予想し、市場平均の89%を上回る見立てです。自社AIチップTPUの外部への販売が上乗せになるとの見方もあり、BNPパリバは「1,000億ドル規模の機会」と分析しています。一方、2026年の設備投資は1,950億〜2,050億ドルとされ、投資の重さも焦点です。",
+      "why": "検索広告に続く柱が育っているかを確かめる決算です。巨額のAI投資に見合う成長を示せるかが問われます。",
+      "src": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62561452/google-cloud-revenue-surges-alphabet-focuses-on-100-billion-tpu-opportunity-ahead-of-q3-earnings"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazon決算前、AI投資と手元の現金の差に注目",
+      "body": "Amazonは29日（日本時間30日早朝）の取引終了後に7〜9月期決算を発表します。市場予想は売上が約2,022億ドル、AWSの売上が約454億ドルです。会社は2026年に約2,200億ドルをAI向けのチップとデータセンターに使う見込みで、上半期は営業で稼いだ現金より設備の購入額が約270億ドル多い状態でした。発表後の株価は、オプション市場で約7%動くと織り込まれています。",
+      "why": "AWSの成長でAI投資を回収できるかを測る決算です。現金の減り方への見方も、今後の評価を左右します。",
+      "src": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-q3-earnings-preview-expect-161036947.html"
+    },
+    {
+      "co": "microsoft",
+      "headline": "MicrosoftのCopilot、Anthropicに年20億ドル超と報道",
+      "body": "米The Informationは、MicrosoftがOffice製品の「Copilot」でAnthropicのAIモデルを使う対価として、年20億ドル以上を払う見通しだと報じました。WordやExcelなどで、OpenAIのモデルとAnthropicの「Claude」を組み合わせて使っています。Microsoftは28日（日本時間29日早朝）に決算を出します。Azureの伸び44〜45%の予想と並んで、Copilotの有料利用がどこまで広がったかも注目点です。前期は有料席が3,000万を超えたとされます。",
+      "why": "MicrosoftはOpenAIだけに頼らない姿勢を強めています。AIの外部調達費が利益にどう影響するかも見どころです。",
+      "src": "Crypto Briefing（The Information報道の引用）",
+      "url": "https://cryptobriefing.com/microsoft-anthropic-2b-copilot-deal/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AI投資の資金をどう集めるか",
+    "body": "Metaが株式で最大950億ドル規模の調達に動き、Alphabetも株式などで850億ドル規模の調達を計画しています。Amazonも設備投資が営業で得た現金を上回っています。AI投資は利益だけでは賄えない規模になり、今週の決算では「投資の見返りが出ているか」が一段と厳しく見られそうです。"
+  },
+  "calendar": [
+    {
+      "when": "10/29（木）未明",
+      "what": "Apple 発表イベント「Pro and Tell」（米国28日午前10時）",
+      "co": "apple"
+    },
+    {
+      "when": "10/29（木）早朝",
+      "what": "Microsoft・Alphabet（Google）決算",
+      "co": "microsoft"
+    },
+    {
+      "when": "10/30（金）早朝",
+      "what": "Amazon 決算",
+      "co": "amazon"
+    },
+    {
+      "when": "11/3（火）早朝",
+      "what": "Apple 決算（米国11月2日）",
+      "co": "apple"
+    }
+  ]
+}
