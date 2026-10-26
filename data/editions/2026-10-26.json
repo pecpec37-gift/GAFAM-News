@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-26",
+  "label": "10月26日（月）号",
+  "coverage": "10月21日〜25日",
+  "minutes": 5,
+  "points": [
+    "Metaに米ニューメキシコ州の裁判所が250億ドルの制裁金を命令。Metaは控訴の構え",
+    "Appleは28日に触れる有機ELのMacBook Proを発表へと報道（未確定）",
+    "AWSトップ「2027年分はほぼ売り切れ」。AI向けの計算能力不足が続く",
+    "今週はGoogle・Microsoft（29日朝）、Amazon（30日朝）の決算。AI投資の回収が焦点"
+  ],
+  "items": [
+    {
+      "co": "meta",
+      "headline": "Metaに250億ドルの制裁金。州の消費者保護法違反で",
+      "body": "米ニューメキシコ州の裁判所は21日、Facebookが利用者のデータ管理や有害投稿への対応について誤解を招く説明をしたとして、Metaに250億ドルの支払いを命じました。9月の陪審評決で約4,400万件の違反が認定されたことを受けたもので、裁判官は「本来は2,200億ドル近くが妥当」とまで指摘。支払うまで年15%の利息がつきます。Metaは「州で事業を続けるのがほぼ不可能になる」と反発し、控訴して勝てると主張しています。",
+      "why": "州単位の消費者保護訴訟でも巨額の支払い命令が出ると示しました。他の州が同じような訴えを起こす動きにつながるかが注目点です。",
+      "src": "Source NM",
+      "url": "https://sourcenm.com/2026/10/21/new-mexico-judge-orders-meta-to-pay-state-25b/"
+    },
+    {
+      "co": "apple",
+      "headline": "28日に「触れるMacBook Pro」発表へと報道",
+      "body": "米ブルームバーグは25日、Appleが28日（日本時間29日未明）に14インチと16インチの新MacBook Proを発表すると報じました。画面を有機ELに変え、指で直接操作できるタッチ対応にするのが最大の特徴です。本体は今より軽く、画面上部の切り欠きは「Dynamic Island」に置き換わるとされます。チップは3月に出たM5 Pro/M5 Maxのまま。価格は現行モデル（14インチで2,499ドルから）より最大500ドル高くなる可能性があります。いずれも報道段階で未確定です。",
+      "why": "Appleは長年「Macにタッチ画面は不要」という姿勢でした。実現すればパソコンの操作方法を見直す大きな方針転換になります。",
+      "src": "MacRumors",
+      "url": "https://macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday"
+    },
+    {
+      "co": "amazon",
+      "headline": "AWSのクラウド、2027年分は「ほぼ売り切れ」",
+      "body": "Amazonのアンディ・ジャシーCEOは23日に配信されたポッドキャストで、AWSのクラウド計算能力について「2027年分はほぼ売り切れ、2028年分もかなり埋まっている」と語り、不足は2027年以降も続くとの見方を示しました。AI開発企業からの需要が強く、自社AIチップ「Trainium」では将来の売上として2,250億ドル超の契約を公表しています。ただし契約残高の具体的な数字は示しておらず、少数の大口顧客に偏っていないかを懸念する声もあります。",
+      "why": "AIの計算能力は作れば売れる状態が続いています。29日の決算で、この需要が売上と利益にどこまで表れるかが試されます。",
+      "src": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/10/24/amazons-aws-has-already-sold-a-good-chunk-of-2028-capacity"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Microsoft決算、Azureの伸び45%を保てるか",
+      "body": "Microsoftは28日（日本時間29日早朝）に7〜9月期決算を発表します。会社はクラウド「Azure」の売上の伸びを前年比44〜45%と予想しており、ここが最大の焦点です。今回から事業区分を「エージェント・インフラ」と「デバイス・消費者」の2つにまとめ、Azureの売上額も初めて金額で示します。設備投資は四半期で500億ドルを超える見通し。売上は906億ドル前後が市場予想とされています。",
+      "why": "AIへの巨額投資がきちんと売上に結びついているかを測る物差しになります。新しい区分で業績の見え方も変わります。",
+      "src": "FinanceFeeds",
+      "url": "https://financefeeds.com/microsoft-stock-before-wednesdays-results-the-45-azure-guide-and-50-billion-capex-quarter"
+    },
+    {
+      "co": "google",
+      "headline": "Google決算、受注残5,000億ドル超のクラウドに注目",
+      "body": "Alphabet（Google）も28日（日本時間29日早朝）に決算を発表します。前の4〜6月期にはGoogle Cloudの売上が前年比82%増の約248億ドルと急伸し、まだ売上になっていない契約（受注残）は5,140億ドルに達しました。一方で設備投資は膨らみ、4〜6月期は会社として初めて手元に残る現金（フリーキャッシュフロー）がマイナスに。自社AIチップTPUを他社のデータセンター向けに売り始めた効果も注目されます。",
+      "why": "検索広告に加え、クラウドとAIチップが新たな稼ぎ頭に育つかどうかが、Googleの今後の成長を左右します。",
+      "src": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/10/24/the-500-billion-question-can-google-clouds-massive-ai-backlog-outrun-its-mind-boggling-capex-boom-on-oct-28/"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta、議決権のない新株で実質2分割へ",
+      "body": "Metaは決算と同時に、議決権のない「クラスC株」を新設し、既存の株1株につき1株を配ると発表しました。実質的な株式の2分割で、2027年1月19日の実施を予定し、ナスダックへの上場も目指します。新株は資金集めや社員への報酬、買収に使うとしています。ザッカーバーグCEOは経済的な持ち分が約13%でも議決権の約6割を握り続けます。同氏がカリフォルニア州の富裕税案が通れば州外への転居を検討しているとの報道もあります。",
+      "why": "創業者の支配を保ったまま株を発行しやすくする仕組みです。巨額のAI投資の資金をどう賄うかという課題が背景にあります。",
+      "src": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/21/meta-beats-on-revenue-and-splits-its-stock-two-for-one-with-non-voting-class-c-shares/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AI投資の「答え合わせ」週",
+    "body": "22日には、AI投資の膨張を心配した売りでMetaやAmazonなどの株が大きく下がりました。AmazonもGoogleも「計算能力が足りない」と言うほど需要は強い一方、設備投資で手元の現金は減っています。今週の決算は、その投資が利益で報われ始めているかを確かめる場になります。"
+  },
+  "calendar": [
+    {
+      "when": "10/29（木）早朝",
+      "what": "Microsoft・Alphabet（Google）決算",
+      "co": "microsoft"
+    },
+    {
+      "when": "10/29（木）未明",
+      "what": "Apple 新製品発表（米国28日、新MacBook Proと報道）",
+      "co": "apple"
+    },
+    {
+      "when": "10/30（金）早朝",
+      "what": "Amazon 決算",
+      "co": "amazon"
+    },
+    {
+      "when": "11/3（火）早朝",
+      "what": "Apple 決算（米国11月2日）",
+      "co": "apple"
+    }
+  ]
+}
