@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-28",
+  "label": "10月28日（水）号",
+  "coverage": "10月27日〜28日",
+  "minutes": 5,
+  "points": [
+    "Metaの株式調達は、通常株を250億ドルに増額。Nvidiaが30億ドルを出す方針と報道",
+    "Appleの発表イベントは日本時間29日午前2時。有機EL・タッチ対応のMacBook Proが目玉と報道（未確定）",
+    "Alphabet・Microsoftは29日朝に決算。Googleのクラウド受注残は5,140億ドル",
+    "Amazonは30日朝に決算。AWSの伸びと、年2,200億ドルの設備投資が焦点"
+  ],
+  "items": [
+    {
+      "co": "meta",
+      "headline": "Meta、株式調達を増額。Nvidiaが30億ドル出す方針",
+      "body": "Metaは、AIデータセンターの資金を集めるための株式の大型調達を進めています。報道によると、通常株の売り出しを250億ドルに引き上げ、別の形の株式（預託株）と合わせて最大375億ドルになります。半導体大手のNvidiaが、このうち30億ドルを買う方針だと伝えられています。そのほか、議決権のない新しい「クラスC株」を最大600億ドル分、少しずつ売る計画もあります。こちらは2027年の第1四半期に始まる見込みで、まだ販売契約は結ばれていません。",
+      "why": "AIの設備投資が、借入だけでは足りない規模になっています。取引先のNvidiaが出資に加わる点も、AI業界の結びつきの強さを示します。",
+      "src": "CNBC ほか",
+      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、日本時間29日午前2時にイベント。タッチ対応Macに注目",
+      "body": "Appleは米国時間28日午前10時（日本時間29日午前2時）に、ロサンゼルスで「Pro and Tell」と名づけたイベントを開きます。ブルームバーグの報道では、有機ELでタッチ操作ができる14インチと16インチのMacBook Proが登場します。ただしチップは最新のM6ではなく、M5 ProとM5 Maxになるとの見方です。タッチなしの14インチには、新しいM6が載るとも伝えられています。価格はかなり高くなるとの推測があります。いずれもAppleが認めたものではなく、未確定の報道です。",
+      "why": "Macで初めてタッチ画面が使えるようになれば、パソコンの使い方が変わるかもしれません。上位モデルが増える形になる点も見どころです。",
+      "src": "Tom's Guide",
+      "url": "https://www.tomsguide.com/computing/macbooks/what-to-expect-from-apples-pro-and-tell-event-all-the-confirmed-and-rumored-products-coming-this-week"
+    },
+    {
+      "co": "google",
+      "headline": "Alphabet決算は28日夕（米国）。クラウドの受注残が焦点",
+      "body": "Alphabetは米国時間28日の取引終了後に、7〜9月期の決算を発表します。Google Cloudの受注残（契約済みで、まだ売上になっていない額）は5,140億ドルで、その約半分が今後2年で売上になる見込みです。自社AIチップTPUを顧客のデータセンターに置く事業も、前の四半期から売上に入り始めました。一方、2026年の設備投資は1,950億〜2,050億ドルの計画です。前の四半期は自由に使える現金がマイナスで、約59億ドルの赤字でした。オプション市場は、発表後に株価が約5%動くと見ています。",
+      "why": "巨額のAI投資が、クラウドの成長と現金の面で釣り合っているかを確かめる決算です。",
+      "src": "Yahoo Finance ほか",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/googl-stock-earnings-preview-expect-103510923.html"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Microsoft決算、Azure45%成長とAI投資の重さに注目",
+      "body": "Microsoftは米国時間28日に、7〜9月期（同社の2027年度第1四半期）の決算を発表します。クラウドのAzureは、為替の影響を除いて約45%の伸びを見込むと会社が話しています。契約済みで未計上の売上は6,780億ドルで、1年前から84%増えました。ただしOpenAI分を除くと25%増にとどまります。この四半期の設備投資は500億ドルを超える見通しです。Copilotの有料利用は3,000万席を超え、今回はAzureの数え方も一部変わります。",
+      "why": "受注残の大きさがOpenAIに偏っていないかが見どころです。投資が利益を圧迫しないかも問われます。",
+      "src": "Benzinga ほか",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62392567/microsoft-stock-heads-into-earnings-with-azure-growth-copilot-momentum-in-focus"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazon決算は米国29日。AWSの伸びが最大の焦点",
+      "body": "Amazonは米国時間29日の取引終了後に、7〜9月期の決算を発表します。会社は売上を1,970億〜2,020億ドル、営業利益を225億〜265億ドルと見込んでいます。クラウドのAWSは前の四半期に37%伸びて422億ドルとなり、18四半期で最も速い成長でした。今回もその勢いが続くかが注目されます。2026年の設備投資は2,200億ドルに引き上げられており、現金の減り方も見られます。前の四半期はプライムデーの時期のずれで、成長率が約4ポイント下がりました。",
+      "why": "AWSの成長が、AI向けの巨額投資を支えられるかを測る決算です。広告事業の伸びも利益を左右します。",
+      "src": "Yahoo Finance ほか",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-q3-earnings-preview-expect-161036947.html"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：決算で問われる「AI投資の元は取れるか」",
+    "body": "Alphabet、Microsoft、Amazonの3社が今週決算を迎え、設備投資はそれぞれ年2,000億ドル前後か四半期500億ドル超という巨額です。Metaは株式を売って資金を集める道を選びました。成長が投資に見合っているか、現金は足りるかが、各社の決算で厳しく見られそうです。"
+  },
+  "calendar": [
+    {
+      "when": "10/29（木）午前2時",
+      "what": "Apple 発表イベント「Pro and Tell」（米国28日午前10時）",
+      "co": "apple"
+    },
+    {
+      "when": "10/29（木）早朝",
+      "what": "Microsoft・Alphabet（Google）決算（米国28日の取引終了後）",
+      "co": "microsoft"
+    },
+    {
+      "when": "10/30（金）早朝",
+      "what": "Amazon 決算（米国29日の取引終了後）",
+      "co": "amazon"
+    },
+    {
+      "when": "11/3（火）朝",
+      "what": "Apple 決算（米国11月2日）",
+      "co": "apple"
+    }
+  ]
+}
