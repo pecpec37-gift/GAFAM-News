@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-29",
+  "label": "10月29日（木）号",
+  "coverage": "10月28日〜29日",
+  "minutes": 5,
+  "points": [
+    "Alphabetの決算は、Google Cloudが倍増。ただし広告が予想に届かず、時間外で株価は約7%下落と報道",
+    "Microsoftの決算は、Azureが48%成長で予想を上回り、時間外で株価は4〜5%上昇と報道",
+    "Appleのイベントで、タッチ対応の有機EL版MacBook Proが公開。14インチは2,899ドルからと報道",
+    "Metaの株式売り出しでは、Nvidia・AMD・Broadcomが合計最大50億ドルの購入に関心と提出書類に記載"
+  ],
+  "items": [
+    {
+      "co": "google",
+      "headline": "Alphabet決算、クラウド倍増も広告が予想未達で株安",
+      "body": "Alphabetが米国時間28日に7〜9月期の決算を発表しました。Google Cloudの売上は約307億ドルで、1年前の約2倍に増え、予想を上回ったと報じられています。一方、全体の売上は約1,276億ドルでほぼ予想どおり、検索とYouTubeの広告は予想に届きませんでした。1株利益は2.12ドルで、予想の約3ドルを下回りました。投資で約87億ドルの損失が出たことも響いています。自由に使える現金は約91億ドルの赤字と伝えられ、株価は時間外取引で約7%下がりました。",
+      "why": "AIの需要でクラウドは急成長していますが、巨額の設備投資で現金が減っています。広告という稼ぎ頭の伸びも、投資家の注目点です。",
+      "src": "investingLive ほか",
+      "url": "https://investinglive.com/stocks/alphabet-q3-google-cloud-revenue-jumps-103-but-search-and-ad-sales-miss-forecasts/"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Microsoft決算、Azureが48%成長。株価は時間外で上昇",
+      "body": "Microsoftは米国時間28日、7〜9月期（2027年度第1四半期）の決算を発表しました。売上は923億ドルで前年より19%増え、予想の907億ドルを上回りました。1株利益も4.89ドルと予想を超えました。クラウドのAzureは48%伸び、会社が示していた約45%の見通しを上回っています。今回から、Azureの売上が331億ドルと金額で初めて開示されました。株価は時間外取引で4〜5%ほど上がったと報じられています。",
+      "why": "AI投資が売上につながっていることを、数字で示した形です。Azureの金額が見えるようになり、今後の比較もしやすくなります。",
+      "src": "Benzinga ほか",
+      "url": "https://www.benzinga.com/markets/earnings/26/10/62675569/microsoft-q1-highlights-double-beat-cloud-revenue-up-30-azure-growth-up-48"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、初のタッチ対応MacBook Proを発表",
+      "body": "Appleは米国時間28日のイベント「Pro and Tell」で、有機ELのタッチ対応MacBook Proを公開したと各メディアが伝えています。MacにタッチができるのはこれがAppleでは初めてです。米国での価格は、14インチ（M5 Pro）が2,899ドルから、16インチ（M5 Pro）が3,399ドルからです。上位のM5 Max版は4,499ドルから。端子はThunderbolt 5が3つで、保存容量は最大16TBまで選べます。この週には、M6を載せた14インチMacBook Proが1,999ドルから、有機EL画面のiPad miniが699ドルからという発表もあったと報じられています。",
+      "why": "Macの使い方が、キーボードとマウス中心から変わるかもしれません。高価格帯をさらに広げる動きでもあります。",
+      "src": "Mixed",
+      "url": "https://mixed-news.com/en/apple-pro-and-tell-event-start-time-countdown-october-28/"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta株の売り出し、Nvidiaなど3社が最大50億ドルに関心",
+      "body": "Metaが進めている株式の大型売り出しについて、米証券当局への提出書類に新しい情報がありました。Nvidia、AMD、Broadcomの3社が、合計で最大50億ドル分のA種株を買うことに関心を示したと書かれています。ただし、この意思表示には拘束力がなく、実際には少なくなったり、買わなかったりする可能性もあります。書類には、Nvidia1社の金額は示されていません。前の号で伝えた「Nvidiaが30億ドル」という報道とは、見え方が少し違います。最終的な売り出し額や価格は、確認できていません。",
+      "why": "AI用の半導体を売る側が、買い手の側にも回る構図です。AI業界の資金が、会社どうしで回り始めていることを示します。",
+      "src": "米SEC提出書類（Form FWP）",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000119312526431036/d116268dfwp.htm"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazon決算は米国29日夕。AWSの受注残4,960億ドルに注目",
+      "body": "Amazonは米国時間29日の取引終了後に、7〜9月期の決算を発表します。会社は営業利益を225億〜265億ドルと見込んでいます。クラウドのAWSは前の四半期に約37%伸びて、5四半期続けて成長が加速しました。契約済みで未計上の受注残は約4,960億ドルで、売上になる速さが見どころです。広告の売上は前回、26%増の約198億ドルでした。2026年の設備投資は約2,200億ドルの計画で、さらに増えると現金が減ります。",
+      "why": "AWSの加速が続くか、巨額投資に見合う成長かが問われます。Google・Microsoftの決算の次に見られる結果です。",
+      "src": "24/7 Wall St. ほか",
+      "url": "https://247wallst.com/investing/2026/10/25/the-hidden-496-billion-catalyst-waiting-to-ignite-amazon-stock-on-oct-29/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：クラウドは絶好調、でも「現金」が課題",
+    "body": "AlphabetとMicrosoftのクラウドは、どちらも高い成長を見せました。ただしAlphabetは巨額投資で現金が赤字になり、株価の反応はMicrosoftと分かれました。AI投資が利益や現金に見合うかを、市場が細かく見ていることがうかがえます。"
+  },
+  "calendar": [
+    {
+      "when": "10/30（金）早朝",
+      "what": "Amazon 決算（米国29日の取引終了後）",
+      "co": "amazon"
+    }
+  ]
+}
