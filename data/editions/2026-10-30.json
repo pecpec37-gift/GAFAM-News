@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-30",
+  "label": "10月30日（金）号",
+  "coverage": "10月29日〜30日",
+  "minutes": 5,
+  "points": [
+    "Amazon、AWSが39%成長と5年近くで最速。ただ利益は予想に届かず株は下落",
+    "Alphabet、クラウドが倍増したが投資の重さが嫌気され株は1割超下落",
+    "Microsoft、契約の受注残が6,770億ドルに。次の四半期もAzure約5割増を見込む",
+    "Apple、タッチ対応MacBook Proは2,899ドルから。発売は11月6日"
+  ],
+  "items": [
+    {
+      "co": "amazon",
+      "headline": "AWSが39%成長。Amazon株は時間外で下落",
+      "body": "Amazonの7〜9月決算で、クラウド事業のAWSの売上は約460億ドルと39%増え、5年近くで最も速い伸びになりました。会社全体の売上は2,019億ドルで12%増。営業利益の率は過去最高の13.9%でした。一方、1株あたり利益は1.89ドルで、市場予想の1.97ドルに届きませんでした。AI向け設備への投資がかさみ、自由に使える現金の流れ（フリーキャッシュフロー）もマイナスになったと報じられています。発表後の時間外取引で株価は6〜8%ほど下げました。",
+      "why": "AIの需要は強いが、その設備投資を借金で支える構図が強まっていることを示す決算です。",
+      "src": "GeekWire",
+      "url": "https://www.geekwire.com/2026/aws-growth-hits-39-its-fastest-in-nearly-five-years-as-amazon-misses-on-earnings/"
+    },
+    {
+      "co": "google",
+      "headline": "Alphabet、クラウド倍増も株は1割超安",
+      "body": "Alphabetの7〜9月決算は、売上が1,276億ドルで25%増でした。Google Cloudの売上は307億ドルとほぼ2倍になり、AI向け半導体TPUの販売も伸びを支えました。検索の利用回数の伸びも5年で最高と発表されています。ただ、設備投資は四半期で約514億ドルと重く、フリーキャッシュフローは赤字と報じられました。2026年の投資計画は1,950億〜2,050億ドルのままで、2027年は大きく増やす見通しです。時間外の株価は約10〜12%下げました（報道により幅があります）。",
+      "why": "事業は絶好調でも、投資の大きさを市場が心配していることがはっきり出ました。",
+      "src": "Motley Fool",
+      "url": "https://fool.com/investing/2026/10/29/alphabet-s-cloud-business-just-doubled-the-stock-fell-12-is-it-a-buy"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Microsoft、受注残6,770億ドル。Azure約5割増を見込む",
+      "body": "28日に発表されたMicrosoftの決算では、すでに結ばれた契約のうち未計上の分（受注残）が6,770億ドルと、前年から73%増えたと報じられています。Azureの成長率は48%で、会社の見通しの44〜45%を上回りました。次の四半期の見通しもAzureが49〜50%増と強気です。一方で、クラウド事業の利益率はやや下がる見込みで、パソコン向けWindowsの売上は22%減ったとされています。株価は決算後に上昇しました。",
+      "why": "AI向けクラウドの需要の裏付けとなる契約が積み上がっている点が、強気の根拠になっています。",
+      "src": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、タッチ対応MacBook Proは2,899ドルから",
+      "body": "Appleは28日、初めてタッチ操作に対応したMacBook Proを発表しました。画面は新しい有機EL方式で、最大の明るさは2,000ニト、動きもなめらかです。米国での価格は、14インチのM5 Proが2,899ドルから、16インチが3,399ドルからです。上位のM5 Max搭載機は4,499ドルから。タッチ対応モデルは非対応の同等機より400ドル高いとされています。予約はすでに始まり、発売は11月6日です。",
+      "why": "価格はかなり高めで、売れ行きが次の決算以降のMac事業を左右しそうです。",
+      "src": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta、株式発行を250億ドルに増額。価格は625ドル",
+      "body": "MetaはAI設備の資金をまかなうため、新しく発行する普通株を最初の想定の225億ドルから250億ドルに増やしました。1株の価格は625ドルです。半導体大手のNvidiaは、この発行に30億ドルを出すと発表しました。BroadcomとAMDも、合計で最大50億ドル分に関心を示したとされますが、拘束力はありません。ほかに、2027年初めには最大600億ドルを段階的に売る計画も報じられています。Metaは今期の設備投資の見通しを1,350億〜1,450億ドルに絞っています。",
+      "why": "大手でも手元の資金だけではAI投資をまかなえず、株式で集める動きが出てきました。",
+      "src": "StockAnalysis",
+      "url": "https://stockanalysis.com/news/nvidia-3-billion-meta-offering/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AI投資が稼ぐ現金を上回る",
+    "body": "Amazon、Alphabet、Metaはいずれも、AI設備への投資が大きく、自由に使える現金がマイナスになったと報じられました。Metaは株式の発行で資金を集めています。クラウドの需要は強い一方、投資の回収を市場がどう見るかが、各社の株価を左右する流れです。"
+  },
+  "calendar": [
+    {
+      "when": "11/3（火）朝",
+      "what": "Apple 決算（米国11月2日の取引終了後）",
+      "co": "apple"
+    },
+    {
+      "when": "11/6（金）",
+      "what": "Apple、タッチ対応MacBook Proの発売",
+      "co": "apple"
+    }
+  ]
+}
