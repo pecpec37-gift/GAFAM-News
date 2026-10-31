@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-01",
+  "label": "11月1日（日）号",
+  "coverage": "10月26日〜11月1日",
+  "minutes": 5,
+  "points": [
+    "Microsoft：社員約6万人（全体の約4分の1）に希望退職の提案。AI投資を優先",
+    "Amazon：端末部門で最大250人を削減。10月初めの小売部門に続く人員整理",
+    "Meta：新株に加え、約125億ドルの優先株も発行。調達計画は合計975億ドル",
+    "Apple：来週の決算は、メモリ価格の高騰をどう説明するかが焦点"
+  ],
+  "items": [
+    {
+      "co": "microsoft",
+      "headline": "Microsoft、約6万人に希望退職を提案",
+      "body": "Microsoftは26日、社員の約4分の1にあたる約6万人に、自分から辞める場合の退職パッケージを示しました。期間限定の希望制で、12月初めまでに決め、受け入れた人は12月31日付で退社します。条件は通常の退職手当と同程度とのことです。会社はAIへの投資を急いでおり、報道では2026年の設備投資は約1,750億ドルと見られています。4月にも初の希望退職を実施し、対象者の3割超が応じたとされます。",
+      "why": "AIに巨額を投じる一方で、人件費を抑えて資金をやりくりする動きが、ついに全社規模に広がりました。",
+      "src": "BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/10/26/microsoft-offers-voluntary-exit-packages-to-60000-staff/"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazon、端末部門で最大250人を削減",
+      "body": "ロイター通信によると、Amazonは28日までに、KindleやタブレットなどをつくるDevices部門で、最大250人の仕事をなくしました。多くはソフトウェア開発の担当です。同社はロイターの問い合わせに対し、少数の職を減らしたと認めましたが、人数は公表していません。この部門では新しい製品を相次いで発売したばかりでした。Amazonは10月の初めにも、小売部門で約1,000人を減らしたと報じられています。",
+      "why": "新製品を出した直後でも人員を絞る姿勢から、AI投資にお金を回すための引き締めが続いていることがわかります。",
+      "src": "ロイター（The Standard経由）",
+      "url": "https://www.thestandard.com.hk/finance/article/346830/Amazon-cuts-more-jobs-in-devices-unit-after-flurry-of-product-rollouts"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta、優先株で約125億ドルも調達",
+      "body": "Metaは通常の株式250億ドルに加え、「義務転換型優先株」を約125億ドル分発行すると発表しました。年6.5%の配当がつき、2029年8月ごろにMetaの普通株へ自動的に切り替わります。調達計画は合計で975億ドルとされますが、このうち約600億ドルは議決権のない新株を使う方式で、早くても2027年1〜3月に始まる見込みです。つまり、すでに集めたお金は計画の一部にとどまります。",
+      "why": "Metaは株式、優先株、さらに新株と、複数の手段を組み合わせてAI投資の資金を確保しようとしています。",
+      "src": "Meta（投資家向け発表）",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Pricing-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-C-KSLVU.pdf"
+    },
+    {
+      "co": "google",
+      "headline": "Alphabet株、決算後に13%安。集団訴訟の動きも",
+      "body": "Alphabetの株価は決算後に13%超下がり、時価総額が5,000億ドル以上減ったと報じられています。「過去最大級」とする報道もありますが、順位は報道で食い違っています。検索などの広告の伸びが5四半期で最も遅く、AI投資に見合う成果が出るのか、現金が足りるのかを市場が心配しました。クラウドは103%成長と好調でした。投資家による集団訴訟の通知も出ており、原告の代表を決める期限は12月1日です。",
+      "why": "好調なクラウドよりも、広告の伸び悩みとAI投資の重さに市場の目が向いたことがわかります。",
+      "src": "Fox News",
+      "url": "https://www.foxnews.com/live-news/ai-boom-google-stock-loss-wall-street-10-30-26"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple決算は3日朝。焦点はメモリ価格の高騰",
+      "body": "Appleは米国時間11月2日（月）、7〜9月期の決算を発表します。日本時間では3日朝です。ティム・クック氏の後任のテルナス氏にとって、CEOとして初の決算説明会です。市場の予想は売上約1,134億ドルと報じられています。注目点はスマホなどに使うメモリの価格で、IDCの推計では1年前より約350%も上がりました。Appleは今後も高くなると説明しており、7月の見通しが弱く株が9%下がった経緯もあります。",
+      "why": "部品の値上がりが利益をどれだけ削るか、新体制の説明が試されます。",
+      "src": "Pepperstone",
+      "url": "https://pepperstone.com/en/insights/market-analysis/equities/apple-q4-2026-earnings-preview-rising-memory-costs-test-margins-can-premium-products-support-the-share-price"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AI投資のために、人と資金をやりくり",
+    "body": "Microsoftは約6万人に希望退職を示し、Amazonも部門ごとに人員を減らしています。MetaはAlphabetやAmazonと同じく、AI投資に必要なお金を株や優先株で集めています。各社とも需要は強いと見ていますが、先に出ていくお金の大きさが、株価と働き方の両方に影響し始めています。"
+  },
+  "calendar": [
+    {
+      "when": "11/3（火）朝",
+      "what": "Apple 決算（米国11月2日の取引終了後）",
+      "co": "apple"
+    },
+    {
+      "when": "11/6（金）",
+      "what": "Apple、タッチ対応MacBook Proの発売",
+      "co": "apple"
+    }
+  ]
+}
