@@ -151,6 +151,8 @@ select{font:inherit;font-size:14px;color:var(--ink);background:var(--paper);bord
   let list = [], current = null, filter = "all";
   const cache = {};
 
+  const APP = (location.pathname.split("/").filter(Boolean)[0] || "app").toLowerCase();
+  const artId = it => { const t = String((it && it.headline) || "") + "|" + String((it && it.url) || ""); let h = 5381; for(let i=0;i<t.length;i++){ h = ((h << 5) + h + t.charCodeAt(i)) >>> 0; } return h.toString(36); };
   const store = {
     get(k){ try{ return JSON.parse(localStorage.getItem(k) || "null"); }catch(e){ return null; } },
     set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
@@ -173,7 +175,7 @@ select{font:inherit;font-size:14px;color:var(--ink);background:var(--paper);bord
     return cache[date];
   }
 
-  function readKey(){ return "read:" + (current ? current.date : ""); }
+  function readKey(){ return "read:" + APP + ":" + (current ? current.date : ""); }
 
   function render(){
     const e = current;
@@ -191,7 +193,7 @@ select{font:inherit;font-size:14px;color:var(--ink);background:var(--paper);bord
     const stories = items.map(it => {
       const c = CO[it.co] || {n:it.co,l:"?",v:"--muted"};
       const idx = all.indexOf(it);
-      const isRead = read.includes(idx);
+      const isRead = read.includes(artId(it));
       return `<article class="story${isRead?" read":""}" style="--co:var(${c.v})">
         <div class="mark" aria-hidden="true">${c.l}</div>
         <div>
@@ -220,12 +222,12 @@ select{font:inherit;font-size:14px;color:var(--ink);background:var(--paper);bord
 
   $("main").addEventListener("click", ev => {
     const chip = ev.target.closest(".chip");
-    if(chip){ filter = chip.dataset.f; store.set("filter", filter); render(); return; }
+    if(chip){ filter = chip.dataset.f; store.set("filter:" + APP, filter); render(); return; }
     const done = ev.target.closest(".done");
     if(done){
-      const i = Number(done.dataset.i), k = readKey();
+      const id = artId((current.items || [])[Number(done.dataset.i)]), k = readKey();
       const r = new Set(store.get(k) || []);
-      r.has(i) ? r.delete(i) : r.add(i);
+      r.has(id) ? r.delete(id) : r.add(id);
       store.set(k, [...r]); render();
     }
   });
@@ -278,7 +280,7 @@ select{font:inherit;font-size:14px;color:var(--ink);background:var(--paper);bord
     if(document.visibilityState === "visible" && current && current.date < new Date(Date.now()+9*3600e3).toISOString().slice(0,10)) load();
   });
 
-  const f = store.get("filter"); if(f) filter = f;
+  const f = store.get("filter:" + APP); if(f) filter = f;
   load();
 })();
 </script>
