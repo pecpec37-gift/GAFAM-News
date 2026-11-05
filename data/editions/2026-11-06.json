@@ -4,51 +4,51 @@
   "coverage": "11月4日〜6日",
   "minutes": 5,
   "points": [
-    "Apple：7〜9月期は売上1,145億ドルで12%増。中国が過去最高、ただし利益率の見通しは低め",
-    "Meta：カリフォルニア州の「億万長者税」は否決の見通し。ザッカーバーグ氏への課税は避けられそう",
-    "Amazon：決算後に下げた株価が4日に約6%戻した。AWSの伸びは約5年ぶりの高さ",
-    "Microsoft：Azureが48%増。AI向けの設備投資は10〜12月期に500億ドル超の見込み"
+    "米国株：ナスダックが5.5%安と約1年半ぶりの大きな下げ。AI投資への不安が広がった",
+    "Meta：AIの設備投資に向け、150億ドルの社債を発行。株の追加発行も進める",
+    "Google：学校向けにAIを初期設定でオフに。選ばないと検索も使えなくなり批判が続出",
+    "Apple・Microsoft：Siriなどの高度なAIや無料のCopilotに、使える量の上限を設ける"
   ],
   "items": [
     {
-      "co": "apple",
-      "headline": "Apple決算、売上12%増も利益率は慎重",
-      "body": "Appleの7〜9月期は、売上が1,145億ドルで前の年より12%増えました。iPhoneは約576億ドルで、新型のiPhone 18 Proが発売されたのは期末までの9日間だけです。中国を含む地域の売上は21%増で、四半期として過去最高でした。10〜12月期の売上は7〜10%増を見込みますが、メモリー部品の値上がりで、粗利益率は45〜46%と今期より下がる見通しです。決算後、株価は下がりました。",
-      "why": "新CEOのテルナス氏にとって最初の決算です。人気は強い一方、部品高が利益を押し下げ始めた点が注目されます。",
-      "src": "9to5Mac／CNBC",
-      "url": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/"
+      "co": "amazon",
+      "headline": "ハイテク株が急落、ナスダックは5.5%安",
+      "body": "5日の米国市場で、ハイテク株の多いナスダック総合指数が5.52%下がり、約1年半ぶりの大きな下げとなりました。最高値から10%以上下がる「調整」局面に入っています。S&P500も4.36%安でした。3日の中間選挙で民主党が勝ち、データセンターの建設に規制がかかるのではとの心配が出たことや、AIへの巨額投資を見直す動きが理由とされます。NVIDIAは約9%安。Amazonは2.19%安で終え、Metaも朝の取引で約4%下げました。",
+      "why": "GAFAMの成長を支えるAI投資そのものに、市場が疑いの目を向け始めました。下げが続くか注目です。",
+      "src": "Yahoo Finance（Motley Fool）／StockTitan",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-5-221502761.html"
     },
     {
       "co": "meta",
-      "headline": "カリフォルニアの億万長者税、否決へ",
-      "body": "資産10億ドル超の人に、一度だけ資産の5%を課す提案40号が、3日の住民投票で否決される見通しです。開票途中の報道では、反対がおよそ52〜56%でした。ザッカーバーグ氏は最も多い約109億ドルを払うことになるとの試算があり、州を出る可能性にも触れていました。Metaの取締役会は、議決権を守ったまま株を売って納税できるようにしていました。なお、税の支払いを禁じる別の提案42号は、賛成が過半数でリードしています。最終結果は公式発表で確認が必要です。",
-      "why": "税の負担が消えれば、創業者の株売却やMetaの支配構造への影響も小さくなります。",
-      "src": "Forbes／The Center Square",
-      "url": "https://www.forbes.com/sites/saradorn/2026/11/04/california-billionaire-tax-appears-headed-for-failure/"
-    },
-    {
-      "co": "amazon",
-      "headline": "Amazon株が反発、AWSの成長に再評価",
-      "body": "Amazonの株価は4日に約6%上がり、266ドル台で取引を終えました。先週の決算では、クラウド事業AWSの売上が460億ドルで約39%増え、約5年で最も速い伸びでした。会社全体の営業利益率も13.9%と過去最高です。ただ、今年の設備投資は約2,200億ドルにのぼり、直近1年のフリーキャッシュフローは約マイナス424億ドルです。決算直後は、この支出を心配して株価が下がっていました。",
-      "why": "AIの需要は強いが、先に出ていくお金も巨大です。市場の見方が日ごとに揺れている状況です。",
-      "src": "Yahoo Finance／Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-4-221328496.html"
-    },
-    {
-      "co": "microsoft",
-      "headline": "Azure 48%増、投資はさらに拡大",
-      "body": "Microsoftの7〜9月期は、売上が923億ドルで19%増えました。クラウドのAzureは約332億ドルで48%増と、前の四半期の42%から加速しています。設備投資は452億ドルで、10〜12月期は500億ドルを超える見込みです。次の四半期のAzureは49〜50%の伸びを予想しています。決算後、株価は時間外で約4%上がりました。",
-      "why": "AI向けの需要が売上に表れている証拠として、投資家が好感しました。",
-      "src": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48/"
+      "headline": "Meta、AI資金に150億ドルの社債",
+      "body": "Metaは5日、合計150億ドルの社債（会社の借金の証書）の発行を終えたと届け出ました。返す時期は2031年から2056年までの5種類で、利率は5.85〜7.5%です。新しい株を4,000万株出す手続きも進め、追加の600万株も売り切りました。Metaは先週、AIの設備投資のために合計950億ドルを集める計画を示しています。7〜9月期のフリーキャッシュフローは約21億ドルの赤字で、格付け会社S&Pは見通しを「ネガティブ」に下げました。",
+      "why": "稼いだお金だけでは足りず、借金や株でAI投資をまかなう段階に入ったことを示しています。",
+      "src": "Investing.com／MoneyCheck",
+      "url": "https://www.investing.com/news/sec-filings/meta-platforms-completes-15-billion-senior-notes-offering-and-issues-additional-shares-93CH-5005944"
     },
     {
       "co": "google",
-      "headline": "Google Cloudが倍増、受注残は5,610億ドル",
-      "body": "Alphabetの7〜9月期で、Google Cloudの売上は約307億ドルと103%増えました。営業利益率は36.2%まで上がり、これから売上になる契約の残りは5,610億ドルにのぼります。一方で設備投資は514億ドルで、フリーキャッシュフローは約91億ドルの赤字でした。2026年の設備投資は1,950〜2,050億ドルの見通しで、来年はさらに増えると説明しています。",
-      "why": "AI需要で稼ぐ力は伸びるものの、投資の重さが株価の不安材料になっています。",
-      "src": "Fortune",
-      "url": "https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/"
+      "headline": "学校のAIを初期オフに、検索も使えず批判",
+      "body": "Googleは3日、来年から小中高の生徒向けのAI機能を、学校が許可しない限りオフにすると発表しました。ところが担当幹部は、検索とAIが一体になっているため、AIを選ばない学校では生徒が検索も使えなくなると説明しました。これにサンダース上院議員が「脅しだ」と批判するなど、反発が広がっています。Googleは、学校の要望に応えて管理しやすくしたと説明しています。競合のDuckDuckGoは、学校向けに乗り換え方法を案内しはじめました。",
+      "why": "学校で使うChromebookは約5,000万台。教育の場でのAIの押しつけが政治問題になりつつあります。",
+      "src": "The AI Insider",
+      "url": "https://theaiinsider.tech/2026/11/05/google-faces-political-backlash-over-tying-school-search-access-to-ai-as-duckduckgo-courts-classrooms/"
+    },
+    {
+      "co": "google",
+      "headline": "EU裁判所の助言役、AI回答で出版社寄りの意見",
+      "body": "EUの最高裁判所にあたる欧州司法裁判所で、法務官（判事に意見を出す役）が3日、ハンガリーの出版社がGoogleを訴えた裁判で意見を出しました。AIのGeminiがニュース記事を取り込み、それを使って答えを作る場合、条件によっては出版社の権利を侵す可能性があるとしました。一方で、AIの学習に記事を使うことは認められるとの考えも示しました。Googleは学習が認められた点を歓迎しています。判決は数か月以内に出る見込みです。",
+      "why": "判決は法務官の意見に沿うことが多く、AIの答えと報道記事の関係をめぐるEUのルールを左右します。",
+      "src": "RTÉ",
+      "url": "https://www.rte.ie/news/europe/2026/1103/1597874-eu-court-backs-publishers-google/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、Siriなど高度なAIに利用上限",
+      "body": "Appleのテルナス新CEOは決算説明会で、SiriのAIや写真のAI編集など、Appleのサーバーで動くAI機能に使える量の上限を設けると説明しました。もっと使いたい人は、あとで追加の利用枠を買えるようにする予定です。また、地図アプリ「Appleマップ」の広告が米国とカナダで始まりました。7〜9月期はMacが24%増の108億ドル、サービスが10%増の316億ドルと好調でした。",
+      "why": "AIの計算にはお金がかかるため、Appleも有料の追加枠という新しい稼ぎ方を探っています。",
+      "src": "TidBITS",
+      "url": "https://tidbits.com/2026/11/05/apples-q4-2026-earnings-new-ceo-same-script-record-profits/"
     },
     {
       "co": "microsoft",
@@ -60,8 +60,8 @@
     }
   ],
   "trend": {
-    "title": "今週の横串：AIの「稼ぎ」と「出費」",
-    "body": "Azureは48%増、AWSは39%増、Google Cloudは103%増と、クラウドの伸びがそろって加速しました。一方で設備投資も、Amazonが約2,200億ドル、Alphabetが約2,000億ドル、Microsoftが四半期で450億ドル超と膨らんでいます。需要は確かですが、先にお金が出ていくため、株価は投資の重さと成長の速さの間で揺れています。"
+    "title": "今週の横串：AIの「お金」に市場が神経質に",
+    "body": "Metaは借金と新株で資金を集め、AppleとMicrosoftはAIの使いすぎに上限をかけ始めました。AIは作るのにも動かすのにも巨額の費用がかかります。5日の株価急落は、その投資が本当に回収できるのかという不安が、選挙をきっかけに一気に表に出た形です。"
   },
   "calendar": [
     {
