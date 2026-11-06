@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-07",
+  "label": "11月7日（土）号",
+  "coverage": "11月5日〜6日",
+  "minutes": 5,
+  "points": [
+    "Amazon：広告の値段を隠れて最大250%上乗せしたと、米当局と22州が新たな証拠を公開",
+    "Microsoft：アムステルダムのAIデータセンター建設地に約100人が侵入。欧州各地で抗議",
+    "Google：自動運転のWaymoが、2028年1月からUberとの独占的な提携を一部で終える",
+    "Apple・Amazon：新型Macなど5製品が発売。AmazonはUber Eatsの配達料を会員向けに無料に"
+  ],
+  "items": [
+    {
+      "co": "amazon",
+      "headline": "Amazon広告に「隠れ値上げ」、新証拠を公開",
+      "body": "米連邦取引委員会（FTC）と22の州は11月5日、8月に起こしたAmazonへの裁判で、これまで黒く塗られていた部分を公開しました。訴えによると、Amazonは検索広告の入札で決まった値段に、ふだんの日で最大50%、プライムデーやブラックフライデーなどの大型セールの日には最大250%を、出品者に知らせずに上乗せしていたとされます。2022年の年末商戦では、この上乗せで世界で8,700万ドルの収入が増えたとも主張しています。Amazon側の反論は今後の裁判で争われます。",
+      "why": "Amazonの広告事業は大きな稼ぎ頭です。値段の決め方が不公正と認められれば、罰金や仕組みの見直しにつながる可能性があります。",
+      "src": "米連邦取引委員会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/new-details-emerge-amazon-ads-auction-rigging-case"
+    },
+    {
+      "co": "microsoft",
+      "headline": "MicrosoftのAI拠点に抗議、欧州で広がる反発",
+      "body": "オランダのアムステルダムで11月6日、Microsoftが使う予定のAIデータセンター（大量のコンピューターを置く建物）の建設地に、約100人の抗議者が入り込みました。報道によると、市民団体の連合が6日と7日に欧州16か国で抗議を計画しており、アイルランドのダブリンやデンマークのMicrosoft関連の場所も対象です。団体は、大型データセンターの新設をいったん止めるよう求めています。Microsoftは平和的な意見表明は尊重するが、違法な行動は認めないとしています。",
+      "why": "AIの開発には巨大なデータセンターが欠かせません。電気や水を大量に使うことへの反発が強まると、建設計画が遅れるおそれがあります。",
+      "src": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe"
+    },
+    {
+      "co": "google",
+      "headline": "Waymo、Uberとの独占提携を2028年に一部終了",
+      "body": "Googleの親会社Alphabet傘下で、自動運転タクシーを手がけるWaymoは、米テキサス州オースティンとジョージア州アトランタでのUberとの独占的な取り決めを、2028年1月から終えると明らかにしました。今後は自社のスマホアプリから直接乗車を受け付けます。Waymoの共同CEOは、Uberのアプリでは自動運転車が来るか人の運転する車が来るか分からず、利用者の体験がばらつくと説明しました。Uberは、合意が続く限り自社アプリでもWaymoの車を扱う考えです。",
+      "why": "自動運転タクシーで、Googleグループが利用者を自分で抱え込む方向に動きます。配車アプリ大手のUberとは競争関係が強まりそうです。",
+      "src": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、新型Macなど5製品を発売。来週も2製品",
+      "body": "Appleは11月6日、有機EL画面のiPad mini（699ドルから）、M6チップのiMac（1,499ドルから）、14インチMacBook Pro（1,999ドルから）、そしてMacで初めて画面に触って操作できる14インチと16インチのMacBook Pro（2,899ドルと3,399ドルから、価格は米国）を発売しました。米メディアによると、13日には家電を操作する新しい家庭用端末「HomeView」と新しいApple TV 4Kも発売され、年内の大型新製品はこれで一区切りになる見通しです。",
+      "why": "年末商戦を前に新製品がそろいました。タッチ画面のMacがどれだけ売れるかは、今後のAppleの業績を占う材料になります。",
+      "src": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/06/two-more-apple-products-next-week/"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazonプライム会員、Uber Eatsの配達料が無料に",
+      "body": "Amazonは11月5日、料理宅配のUber Eatsと組み、米国のプライム会員が25ドル以上のレストランの注文をすると、配達料が0ドルになるサービスを始めました。注文はAmazonのサイトやアプリからでき、Uberのアカウントを別に作る必要はありません。米国の約1万の市や町が対象です。始めの14日間は、最初の2回の注文が20ドル引きになる特典もあります。Amazonは、年間で175ドル以上節約できる可能性があるとしています。",
+      "why": "会員の特典を増やし、プライムから抜けにくくする狙いです。料理宅配の競争が激しい米国で、利用者の取り合いがさらに続きます。",
+      "src": "Amazon",
+      "url": "https://press.aboutamazon.com/2026/11/amazon-launches-partnership-with-uber-eats-featuring-0-delivery-fee-for-prime-members"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Microsoft、AIエージェントを「囲い」で守る機能",
+      "body": "Microsoftは11月5日、セキュリティー分野の新機能をまとめて発表しました。人の代わりに作業をこなすAI（AIエージェント）を、Windowsの中で区切られた場所に閉じ込めて動かす「Execution Containers」が正式に使えるようになりました。作業の危なさに応じて、AIの権限を狭めたり、人の承認を求めたりする仕組みも加えます。パソコン内で動くAIエージェントを50種類以上見つけ出す機能も正式提供です。17〜20日には年次イベント「Ignite」を開きます。",
+      "why": "会社でAIに仕事を任せる動きが進むほど、AIが勝手に危ない操作をしないよう見張り、管理する仕組みが欠かせなくなります。",
+      "src": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：データセンターへの逆風",
+    "body": "米中間選挙では、テキサスなど3州でデータセンターの建設を止めると訴えた知事候補が勝ち、欧州でも建設反対の抗議が広がっています。Google、Amazon、MicrosoftなどはAI向けの巨額投資を続けていますが、建設のスピードが落ちる可能性が出てきました。5日に大きく下げた米国株は、6日の取引中には持ち直す場面もありました。"
+  },
+  "calendar": [
+    {
+      "when": "11/13（金）",
+      "what": "Apple、家庭用端末「HomeView」と新Apple TV 4Kを発売（米国の報道）",
+      "co": "apple"
+    },
+    {
+      "when": "11/18（水）〜",
+      "what": "Microsoft、年次イベント「Ignite」（米国時間17〜20日）",
+      "co": "microsoft"
+    }
+  ]
+}
