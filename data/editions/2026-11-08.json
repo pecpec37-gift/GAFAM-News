@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-08",
+  "label": "11月8日（日）号",
+  "coverage": "11月5日〜7日",
+  "minutes": 5,
+  "points": [
+    "Meta：ニュースサイトなどの情報を集められる新しい利用規約を、反発を受けて無期限で延期",
+    "Amazon：値引きを妨げたとする訴訟で、約1,000万人の消費者をまとめて争う「集団訴訟」が認められた",
+    "Apple・Microsoft：iPhoneの次期OSで健康アプリを刷新。WindowsはCopilotを「使いたい人だけ」に",
+    "Google：動画を作るAIを値下げし、15秒まで作れるように。暗号資産の保管サービスも準備"
+  ],
+  "items": [
+    {
+      "co": "meta",
+      "headline": "Meta、批判を浴びた新規約を無期限延期",
+      "body": "Metaは、企業向けアカウントを持つ会社のウェブサイトから情報を自動で集められるようにする新しい利用規約を、無期限で見送ると明らかにしました。11月20日に始まる予定でしたが、今の規約がそのまま続きます。この規約はニュースサイトも対象になるため、報道機関が強く反発していました。ノルウェーやブラジルの裁判所は差し止めを命じ、英国の競争当局も正式な調査を始めています。米国でも与野党の上院議員が撤回を求める手紙を送っていました。",
+      "why": "AIのためのデータ集めと、記事を作る側の権利がぶつかった例です。各国の当局や裁判所が素早く動いたことで、巨大企業でも方針転換を迫られました。",
+      "src": "Nieman Lab",
+      "url": "https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazonに1,000万人規模の集団訴訟、裁判所が認定",
+      "body": "米ワシントン州の連邦地裁は11月2日、Amazonに対する消費者の訴えを「集団訴訟」として進めることを認めました。原告側は、Amazonが出品者に他のサイトで安く売らないよう事実上求め、値引きを妨げたため、消費者が高い値段を払わされたと主張しています。対象になる消費者は少なくとも1,000万人と見積もられています。2020年に起こされた裁判で、今回の判断はAmazonが違法かどうかを決めたものではありません。",
+      "why": "集団訴訟になると、負けた場合の賠償額が非常に大きくなりえます。広告の値上げ疑惑など、Amazonへの法的な圧力が重なっています。",
+      "src": "PYMNTS",
+      "url": "https://www.pymnts.com/cpi-posts/amazon-faces-antitrust-class-action-involving-10-million-consumers/"
+    },
+    {
+      "co": "apple",
+      "headline": "iOS 27.3の公開ベータ、健康アプリを一新",
+      "body": "Appleは11月5日、iPhone向けの次のOS「iOS 27.3」を一般の人も試せる「公開ベータ版」として配りました。目玉は健康アプリの作り直しで、AIが体のデータから気づきを示す画面や、Apple Watchの記録をもとに「健康年齢」を表示する画面が加わります。ほかに、Safariのタブを縦に並べる機能や、Siriに頼める操作の追加もあります。また、新しい折りたたみ型のiPhone Duoは品不足が続き、CEOは解消の時期は読めないと話しています。",
+      "why": "健康管理はAppleが力を入れる分野で、AI機能をどう日常に生かすかの試金石です。品不足は年末商戦の売上にも関わります。",
+      "src": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/05/apple-releases-first-ios-27-3-public-beta-with-redesigned-health-app-and-more/"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Windows 11の新しい検索にCopilot、使うかは自由",
+      "body": "Microsoftは、10月に発表したWindows 11の新しい検索画面に、AIアシスタント「Copilot」を組み込むと明らかにしました。ただし、今回は自分で「使う」と選んだ人だけが使える仕組みにするとしています。以前に試していた「Ask Copilot」という機能は、オフにする方法がなく不満が出て、夏に試験が止まっていました。新しい検索は2026年中に配信が始まり、Copilot機能はまず一部の地域から提供されます。",
+      "why": "AIを押しつけられることへの利用者の反発に、Microsoftが配慮した形です。毎日使う検索にAIがどう入るかは、多くの人に関わります。",
+      "src": "Windows Central",
+      "url": "https://windowscentral.com/microsoft/windows-11/copilot-is-coming-to-windows-11s-new-search-ui-later-this-year-but-microsoft-promises-itll-be-optional-this-time"
+    },
+    {
+      "co": "google",
+      "headline": "Google、動画AIを値下げ。15秒まで作成可能に",
+      "body": "Googleは11月5日、文章や画像から動画を作るAIの新版「Gemini Omni 1.2 Flash」を正式に提供し始めました。一度に作れる動画が最長15秒に伸び、話しかけるように何度も手直しできるようになりました。720pの画質で1秒あたり0.07ドルと、以前より安くなっています。主に開発者や企業向けで、アプリを作る人がGoogleのAIサービスを通じて使えます。登場人物の見た目を保つ力も上がったとGoogleは説明しています。",
+      "why": "動画を作るAIは各社が競う分野です。値下げで使いやすくなると、広告や動画づくりの現場でAIの利用が一気に広がる可能性があります。",
+      "src": "RuntimeWire",
+      "url": "https://runtimewire.com/article/google-gemini-omni-1-2-flash-15-second-clips"
+    },
+    {
+      "co": "google",
+      "headline": "Google、銀行向けに暗号資産の保管サービス",
+      "body": "Googleは10月28日、金融機関向けに暗号資産（仮想通貨）を安全に預かるサービス「Multi-Party Compute」を予告し、改めて注目されています。お金を動かすための「秘密の鍵」をいくつかに分けて別々の場所に置き、決めたルールに合う取引だけを認める仕組みです。イーサリアムやソラナなどに対応し、2027年の開始を目指します。直前には大手取引所のバイナンスで約63億ドルが盗まれたと伝えられ、安全性への関心が高まっています。",
+      "why": "銀行が暗号資産を扱ううえで最大の壁は安全面です。Googleがこの分野に本格的に入れば、金融とITの境目がさらに薄れます。",
+      "src": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/07/is-googles-new-cryptocurrency-push-a-reason-to-buy/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIは「押しつけない」が新常識に",
+    "body": "Metaは反発を受けてデータ集めの規約を止め、MicrosoftはCopilotを選んだ人だけのものにしました。前の週のGoogleの学校向けAIへの批判も含め、利用者や当局の声がAIの広げ方を左右し始めています。"
+  },
+  "calendar": [
+    {
+      "when": "11/13（金）",
+      "what": "Apple、家庭用端末「HomeView」と新Apple TV 4Kを発売（米国の報道）",
+      "co": "apple"
+    },
+    {
+      "when": "11/18（水）〜",
+      "what": "Microsoft、年次イベント「Ignite」（米国時間17〜20日）",
+      "co": "microsoft"
+    }
+  ]
+}
