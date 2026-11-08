@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-09",
+  "label": "11月9日（月）号",
+  "coverage": "11月6日〜8日",
+  "minutes": 5,
+  "points": [
+    "Apple：ターナスCEOがAI開発を急ぐよう社内に要求。Siriを「代わりに作業する」AIにする計画も報道",
+    "Microsoft：5日ごろからOutlook.comやHotmailで、届くはずのメールが拒否される不具合の報告が相次ぐ",
+    "Meta：InstagramやThreadsのアカウントを、本人の選択なしに「Metaアカウント」へ切り替え始めた",
+    "Amazon・Google：AlexaにSMSで買い物を頼めるように。Pixelの11月更新は遅れ、理由は不明"
+  ],
+  "items": [
+    {
+      "co": "apple",
+      "headline": "Apple新CEO、AI開発の加速を社内に要求と報道",
+      "body": "米ブルームバーグの記者が8日、Appleのジョン・ターナスCEOが、ソフトウェア担当のフェデリギ氏にAI開発をもっと急ぐよう求めたと伝えました。ライバルに比べて動きが遅いことに不満を持っていたといいます。Siriを、利用者の代わりに作業まで進める「エージェント」型のAIにする取り組みが、早ければ来年にも形になる可能性があるとも報じられました。次の大型OS「iOS 28」では、開発の進め方も変えたとされます。いずれもAppleは発表しておらず、未確定の報道です。",
+      "why": "AIで出遅れたと言われてきたAppleが、トップ主導で巻き返しを急いでいる様子が見えます。次のiPhoneの使い勝手を左右しそうです。",
+      "src": "Gizmodo",
+      "url": "https://gizmodo.com/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones-2000836769"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Outlook.comでメールが届かない不具合の報告",
+      "body": "Microsoftの無料メール「Outlook.com」や「Hotmail」で、11月5日ごろから一部のメールが受け取りを拒否されているという報告が相次いでいます。送った側には「なりすまし対策の確認に失敗した」という内容のエラーが返ってきます。正しい設定をしている送り手でも拒否される例があり、送り直すと届くこともあるそうです。米IT系サイトの記者も8日に同じ現象を確かめました。Microsoftは原因をまだ公表していません。",
+      "why": "受信側は届かなかったことに気づきにくいのが問題です。大事な連絡はほかの手段でも確認すると安心です。",
+      "src": "Windows Latest",
+      "url": "https://windowslatest.com/2026/11/08/your-outlook-com-inbox-may-be-silently-missing-emails-since-nov-5-and-even-senders-with-valid-settings-are-getting-blocked"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta、アカウントを本人の選択なしに一本化",
+      "body": "Metaが、InstagramやThreadsなどのアカウントを、新しい「Metaアカウント」へ自動で切り替え始めました。11月5日付の通知では「切り替えました」と事後に知らせる形で、断る方法は示されていなかったと米マーケティング系メディアが伝えています。Metaは4月に、約1年かけて段階的に切り替えると発表していました。ひとつのMetaアカウントの中では、広告の好みの設定などが複数のアプリで共有される場合があるといいます。",
+      "why": "複数のアプリの情報がまとめて扱われるようになると、個人データの使われ方が変わります。欧州の規制との関係にも注目です。",
+      "src": "PPC Land",
+      "url": "https://ppc.land/meta-forces-users-onto-meta-accounts-with-no-opt-out-offered/"
+    },
+    {
+      "co": "amazon",
+      "headline": "Alexaにメッセージで買い物を頼めるように",
+      "body": "Amazonは6日、AIアシスタントの「Alexa」に、スマホのショートメッセージで買い物を頼める機能を発表しました。まずは招待された米国の一部の利用者向けで、数週間のうちに広げる予定です。文字で頼むだけでなく、写真を送ると似た商品を探してくれます。毎週の食料品の注文、プレゼント選び、セールのお知らせ、最大1年分の値段の動き、配達状況の確認などにも対応します。料金は示されていません。",
+      "why": "声で話しかけるスピーカー中心だったAlexaが、文字のやり取りにも広がります。年末商戦を前に、AIで買い物を手軽にする狙いです。",
+      "src": "Engadget",
+      "url": "https://engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon"
+    },
+    {
+      "co": "google",
+      "headline": "Pixelの11月アップデートが遅れ、説明なし",
+      "body": "Googleのスマホ「Pixel」向けの11月のアップデートが、7日時点でまだ配られていないと米メディアが伝えました。Android全体の安全対策の情報は2日に公開されましたが、Pixel向けは10月分のままです。Pixelの更新は例年、月初めの火曜日ごろに届くことが多く、今回は遅れています。次の大きな機能更新を前倒しするのではという見方もありますが、Googleは理由も新しい日程も明らかにしていません。",
+      "why": "毎月の更新には、ウイルスなどの攻撃を防ぐ修正が含まれます。Pixelを使う人は、設定画面で更新を確認しておくと安心です。",
+      "src": "AndroidPure",
+      "url": "https://androidpure.com/pixel-november-update-delayed"
+    },
+    {
+      "co": "meta",
+      "headline": "ザッカーバーグ氏ら参加の政府会議が延期",
+      "body": "米政府の科学技術の助言会議が、6日に予定していた会合を取りやめました。この会議にはMetaのザッカーバーグCEOやNVIDIAのフアンCEOも加わっています。米エネルギー省は「日程の都合」によるもので、近く日程を組み直すと説明しました。同省のサイトに一時、新しい日付として13日が出ましたが、すぐに消されたといいます。中止の理由をめぐっては臆測も出ていますが、公式な裏付けはありません。",
+      "why": "AIのルールづくりに大手IT企業のトップがどう関わるかは、規制の行方に直結します。会合がいつ開かれるかが注目点です。",
+      "src": "Tech Insider",
+      "url": "https://tech-insider.org/white-house-cancels-pcast-tech-panel-zuckerberg-huang-nov-13-retracted-2026/"
+    },
+    {
+      "co": "amazon",
+      "headline": "早めの年末の買い物、返品期限に注意",
+      "body": "米フォーチュン誌に掲載された解説記事によると、Amazonでは11月1日から12月31日に買った商品は、来年1月31日まで返品できます（Apple製品は1月15日まで）。一方、11月1日より前に買ったものは通常の30日の期限になる可能性が高く、クリスマス前に返品期限が切れることもあるといいます。米国では、早めに年末の買い物を始める人が増えています。",
+      "why": "米国の話ですが、セールで早めに買うときは返品期限を確かめる習慣が役立ちます。年末商戦の始まりも感じられる話題です。",
+      "src": "Fortune",
+      "url": "https://fortune.com/2026/11/08/early-holiday-shopping-amazon-return-window-before-christmas"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIが「代わりに動く」へ",
+    "body": "AppleはSiriを利用者の代わりに作業するAIにしようと急ぎ、AmazonはAlexaに文字で買い物を任せられるようにしました。質問に答えるだけのAIから、実際の作業まで進めるAIへと、各社の競争の中心が移りつつあります。"
+  },
+  "calendar": [
+    { "when": "11/9（月）", "what": "Microsoft、Copilot Chatの利用上限を大きな組織にも拡大（米国時間）", "co": "microsoft" },
+    { "when": "11/13（金）", "what": "Apple、家庭用端末「HomeView」と新Apple TV 4Kを発売（米国の報道）", "co": "apple" },
+    { "when": "11/18（水）〜", "what": "Microsoft、年次イベント「Ignite」（米国時間17〜20日）", "co": "microsoft" }
+  ]
+}
