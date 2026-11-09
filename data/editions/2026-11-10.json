@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-10",
+  "label": "11月10日（火）号",
+  "coverage": "11月8日〜10日",
+  "minutes": 5,
+  "points": [
+    "Google：AIチップ「TPU」の新システムを2つ発表。利用企業は100社近くに",
+    "Amazon：OpenAIの企業向けChatGPTが、AWSの請求でまとめて買えるように",
+    "Meta：Instagramで、AIが10代と推定した人を大人と名乗っていても保護設定へ（全世界）",
+    "Apple・Microsoft：Appleはトルコに7つの拠点、iPhoneなどに安全更新。Copilotに従量課金のAI"
+  ],
+  "items": [
+    {
+      "co": "google",
+      "headline": "Google、AIチップTPUの新システムを2つ発表",
+      "body": "Googleは9日、自社開発のAI向け半導体「TPU」を使った新しいシステムを2つ発表しました。「TPU 8tx」は、データを外から見られにくくする仕組みを強めたもので、金融機関や政府など情報の扱いに厳しい組織向けです。「TPU 8i Max」は、チップ2つを1つの部品にまとめ、計算の力を2倍にしました。GoogleはTPUの利用企業が100社近くに増えたと説明しています。価格や提供開始日はまだ公表されていません。この日、親会社Alphabetの株価は3％ほど上がりました。",
+      "why": "AIの計算に使うチップはNVIDIAが圧倒的に強い分野です。Googleが選択肢を増やせば、AIを動かす費用の競争が進む可能性があります。",
+      "src": "PPC Land",
+      "url": "https://ppc.land/googles-ai-chip-business-nears-100-customers-as-it-adds-tpu-8tx-and-8i-max/"
+    },
+    {
+      "co": "amazon",
+      "headline": "企業向けChatGPT、AWS経由で購入可能に",
+      "body": "OpenAIは9日、企業向けの「ChatGPT Enterprise」を、Amazonのクラウド（AWS）のオンライン売り場「AWS Marketplace」で売り始めたと発表しました。AWSを使っている会社は、いつものAWSの請求書でまとめて支払えるようになります。AWSと約束している利用額の中に数えられる場合もあります。決まった定価はなく、会社ごとに個別に見積もりを出す形です。中身はOpenAIから直接買う場合と同じとされています。両社は4月にも、AWS上でOpenAIのAIを使えるよう提携を広げていました。",
+      "why": "AWSはライバルのAIでも自分の売り場で扱う方針です。企業にとってはAIを導入する手続きが簡単になり、AWSには利用が集まります。",
+      "src": "Securities.io",
+      "url": "https://www.securities.io/openai-adds-aws-procurement-and-billing-for-chatgpt-enterprise/"
+    },
+    {
+      "co": "meta",
+      "headline": "Instagram、AIで10代を見分ける仕組みを全世界に",
+      "body": "Metaは9日、Instagramで利用者の年齢をAIで推定する仕組みを、全世界に広げると発表しました。大人の誕生日を登録していても、投稿やコメント、プロフィールの内容、写真や動画の特徴などから10代と推定されれば、制限の強い「ティーンアカウント」に移されます。ティーンアカウントでは、知らない人からのメッセージが届かず、最初から非公開になります。Facebookでも導入を進め、Threadsでも年内に始める予定です。Metaは8月、米国のほぼすべての州と子どもの保護をめぐって和解しています。",
+      "why": "子どもをSNSの危険から守るよう、各国の規制が強まっています。年齢をAIで見抜く方法が、業界の標準になるかが注目点です。",
+      "src": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、トルコに開発者の学校など7拠点",
+      "body": "Appleは9日、トルコに何年もかけて投資し、アプリ開発と製造に関わる7つの拠点を開くと発表しました。内訳は、無料でプログラミングやデザイン、AIなどを学べる「デベロッパーアカデミー」を3年で5か所、イスタンブールの開発者向けセンターを1か所、首都アンカラの製造技術を学ぶ学校を1か所です。製造の学校は米国以外では初めてで、2028年に開く予定です。会長に退いたティム・クック氏がトルコを訪れたのに合わせた発表でした。",
+      "why": "Appleは米国の外でも、アプリ開発や製造の人材を育てる拠点を広げています。各国との関係を深め、開発者を増やす狙いがありそうです。",
+      "src": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/09/apple-to-open-new-developer-center-in-istanbul-as-part-of-broader-turkey-investment/"
+    },
+    {
+      "co": "apple",
+      "headline": "iPhoneやMacに安全対策の更新、早めの適用を",
+      "body": "Appleは9日、iPhone向けの「iOS 27.2.1」や、Mac、Apple Watch、Vision Pro向けの更新を一斉に配りました。不具合の修正と安全対策が中心です。Mac向けでは、悪用のおそれがあるインドの認証局「eMudhra」の電子証明書を、開発者がよく使う通信ツールが受け入れないよう直したとされます。古い機種向けにも、iOS 26や18の修正版が出ています。設定アプリの「ソフトウェアアップデート」から入れられます。",
+      "why": "安全のための更新は、放っておくと悪用される危険が残ります。iPhoneやMacを使う人は、早めに更新しておくのが安心です。",
+      "src": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/09/apple-releases-ios-27-2-1-with-bug-fixes/"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Copilot、使った分だけ払うAIを選択可能に",
+      "body": "Microsoftは、仕事用の「Microsoft 365 Copilot」で、使った量に応じて料金を払う「従量課金」のAIモデルを使えるようにする作業を11月上旬から始めました。11月中旬までに配り終える見込みです。Copilotのチャット画面のほか、Word、Excel、PowerPointでも、OpenAIやAnthropicの最新モデルを選べるようになります。使うには、Copilotの契約に加えて、会社の管理者が従量課金を有効にし、利用枠を割り当てる必要があります。",
+      "why": "高性能なAIほどお金がかかるため、定額だけでなく使った分を払う形が広がっています。企業のAI費用の考え方が変わりそうです。",
+      "src": "ChangePilot",
+      "url": "https://changepilot.cloud/blog/november-2026-microsoft-365-updates-copilot-billing-code-more"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIを「どう売るか」の工夫",
+    "body": "GoogleはAI用チップを外部企業に貸し出し、AmazonはライバルOpenAIのAIまで自社の売り場で扱い、Microsoftは使った分だけ払う料金を導入しました。AIの性能競争に加えて、企業が買いやすい売り方や料金の仕組みづくりでも競争が強まっています。"
+  },
+  "calendar": [
+    {
+      "when": "11/11（水）早朝",
+      "what": "Microsoft、月例のセキュリティ更新を配信（米国時間10日）",
+      "co": "microsoft"
+    },
+    {
+      "when": "11/13（金）",
+      "what": "Apple、家庭用端末「HomeView」を発売（米国）",
+      "co": "apple"
+    },
+    {
+      "when": "11/18（水）〜",
+      "what": "Microsoft、年次イベント「Ignite」（米国時間17〜20日）",
+      "co": "microsoft"
+    }
+  ]
+}
