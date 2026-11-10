@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-11",
+  "label": "11月11日（水）号",
+  "coverage": "11月9日〜10日",
+  "minutes": 5,
+  "points": [
+    "Microsoftが過去最多級の1,235件の欠陥を修正。Outlookの欠陥はすでに悪用中",
+    "Google検索の順位を決める仕組みが大きく更新。約2週間かけて全世界へ",
+    "Apple Intelligence、中国でiPadとノートPC向けの登録も完了",
+    "Amazon傘下Ringが空飛ぶ室内カメラなど防犯ロボット2種を発表"
+  ],
+  "items": [
+    {
+      "co": "microsoft",
+      "headline": "Microsoft、1,235件の欠陥を修正。急いで更新を",
+      "body": "Microsoftは米国時間10日、毎月恒例のセキュリティ更新を配信し、合計1,235件の弱点（ぜい弱性）を直しました。中でも、メールソフトOutlookの欠陥はすでに攻撃に使われていたことが確認されています。細工したメールのファイルを開くと、パスワードに関わる情報が盗まれるおそれがあるといいます。66件は最も深刻な「緊急」に分類され、Windows関連だけで約639件にのぼります。10月の1,411件に続き、修正件数が非常に多い状態が続いています。",
+      "why": "WindowsやOutlookは仕事でも家庭でも広く使われています。攻撃がすでに始まっているため、更新を後回しにすると被害を受ける危険が高まります。",
+      "src": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+    },
+    {
+      "co": "google",
+      "headline": "Google検索、順位の決め方を大きく更新",
+      "body": "Googleは米国時間10日、検索結果の並び順を決める仕組みを大幅に見直す「コアアップデート」を始めました。全世界・全言語が対象で、反映には最大2週間ほどかかり、11月24日ごろに終わる見込みです。こうした大型更新は今年3回目です。Googleは「役に立ち、満足できる情報を上に出すための定期的な見直し」と説明しています。サイト運営者には、更新が終わるまでアクセス数の変化を判断しないよう呼びかけています。",
+      "why": "検索の順位が変わると、お店や企業のサイトへの訪問者数が大きく増減します。ネット集客をする人には年末商戦と重なる重要な時期です。",
+      "src": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/google-november-2026-core-update/596614/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple Intelligence、中国でiPad・ノートPCも前進",
+      "body": "ロイター通信の報道によると、上海のネット規制当局は9日、AppleのAI機能「Apple Intelligence」がタブレットとノートPC向けにも中国での登録を終えたと明らかにしました。中国ではiPhone向けが7月に認められ、12月のiOS 27.3と同時に一般公開される予定です。翻訳や文章の手直しなどが使え、一部は中国アリババのAIが支えます。ただ、iPadやMacでいつ使えるようになるかはAppleが発表しておらず、未確定です。",
+      "why": "中国はAppleにとって大きな市場です。AI機能が使えないことが販売の弱みとされてきたため、巻き返しのきっかけになるかが注目されます。",
+      "src": "Digital Trends",
+      "url": "https://digitaltrends.com/computing/apple-intelligence-just-cleared-another-major-roadblock-in-china-and-macs-are-next"
+    },
+    {
+      "co": "amazon",
+      "headline": "Ring、空飛ぶ室内カメラなど防犯ロボット発表",
+      "body": "Amazon傘下で防犯カメラを手がけるRingは10日、防犯ロボットの新シリーズを発表しました。家の中を飛んで見回る小型ドローン型カメラ「Ring Drone Cam」（249.99ドル）と、店舗や会社向けに自分で走って巡回する「Ring Rover Cam」（999.99ドル）の2種類です。どちらもAIが部屋の形を覚え、見回りのルートを決めます。米国でRover Camは12月16日、Drone Camは2027年1月27日に出荷予定ですが、Drone Camは米国の電波の認可をまだ得ていません。",
+      "why": "防犯カメラが「置くもの」から「自分で動くもの」へ進もうとしています。家の中を撮影するため、プライバシーの守り方も問われます。",
+      "src": "About Amazon",
+      "url": "https://www.aboutamazon.com/news/devices/ring-drone-cam-rover-cam-security-robot"
+    },
+    {
+      "co": "meta",
+      "headline": "MetaのAI「Muse」、スマートウォッチでも",
+      "body": "Metaは9日、AIアシスタント「Muse」をApple WatchとAndroid系の腕時計（Wear OS）で使えるようにしたと発表しました。腕時計から声で話しかけたり、文字で質問したりできます。Museは9月にアプリが登場し、米国では40日で1,000万ダウンロードを超えました。10月にはiPad版、11月に入ってからはアバターとのビデオ通話や、話題ごとに会話を分ける機能も加わり、短い間隔で機能を増やしています。",
+      "why": "Metaは自社のAIを生活のあらゆる場面に広げようとしています。スマホだけでなく腕時計まで、AIの取り合いが広がっています。",
+      "src": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+    },
+    {
+      "co": "google",
+      "headline": "Pixel 10に新AI機能、11月の更新が配信開始",
+      "body": "前号で遅れを伝えたGoogleのスマホ「Pixel」の11月の機能追加が、米国時間10日から順番に配信され始めました。目玉はPixel 10シリーズで使えるAI機能「Gemini Intelligence」です。米国では、AIが持ち主の電話番号で代わりに電話をかけることもできます。忘れ物防止タグ「Pixel Tag」も29ドル（4個で99ドル）で発売されました。一方、1つ前のPixel 9には今回このAI機能は来ないとされています。",
+      "why": "スマホのAIは「質問に答える」から「代わりに用事を済ませる」段階に進んでいます。古い機種が対象外になる点も買い替え判断に影響します。",
+      "src": "Android Headlines",
+      "url": "https://www.androidheadlines.com/2026/11/november-2026-pixel-drop-gemini-intelligence-pixel-10.html"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazonブラックフライデー、19日から開始",
+      "body": "Amazonは米国の年末最大のセール「ブラックフライデー」を11月19日（米国時間）から始めると発表しました。感謝祭の前の1週間から続き、12日間にわたって毎日テーマを変えた特売を行います。値引きは最大60%です。今年は初めて、ブラックフライデー当日とサイバーマンデーに特売品が1日2回放出されます。テレビやオーディオ、コーヒーメーカーなどの割引が予告されています。Google公式ストアも同じ19日から年末セールを始めると予告しており、大手各社の値下げ競争が本格化します。",
+      "why": "米国の年末商戦は小売の1年を左右する時期です。セールの売れ行きは、物価高の中で人々がどれだけお金を使うかを知る手がかりにもなります。",
+      "src": "9to5Toys",
+      "url": "https://9to5toys.com/2026/11/10/amazon-black-friday-2026-officially-announced/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIが身の回りの機器へ",
+    "body": "GoogleはスマホのAIに電話の代行をさせ、Metaは腕時計にAIを広げ、AmazonはAIが巡回ルートを決める防犯ロボットを発表しました。AppleもAI機能の中国展開を進めています。AIの競争は、チャット画面から日常の機器そのものへと舞台を移しつつあります。"
+  },
+  "calendar": [
+    {
+      "when": "11/13（金）",
+      "what": "Apple、家庭用端末「HomeView」を発売（米国）",
+      "co": "apple"
+    },
+    {
+      "when": "11/18（水）〜",
+      "what": "Microsoft、年次イベント「Ignite」（米国時間17〜20日）",
+      "co": "microsoft"
+    },
+    {
+      "when": "11/19（木）夕方",
+      "what": "Amazon、ブラックフライデーのセール開始（米国時間19日午前0時1分）",
+      "co": "amazon"
+    }
+  ]
+}
