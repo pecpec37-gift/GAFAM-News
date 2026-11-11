@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-12",
+  "label": "11月12日（木）号",
+  "coverage": "11月9日〜11日",
+  "minutes": 5,
+  "points": [
+    "Google：AI「Gemini」のアプリが、iPhoneを車につなぐCarPlayで直接使えるように",
+    "Meta：AIの計算基盤を長く率いた幹部が退任へ。後任は元Amazonの幹部",
+    "Apple：利用者同士の質問サイト「サポートコミュニティ」を20日で閉鎖。タイ政府とはスパイウェア警告で面会と報道",
+    "Microsoft・Amazon：Windowsの11月更新が入らない報告が相次ぐ。Amazonの衛星ネット用ロケットは14日未明に打ち上げ予定"
+  ],
+  "items": [
+    {
+      "co": "google",
+      "headline": "Gemini、iPhoneの車載画面CarPlayで直接使えるように",
+      "body": "Googleは11日、AIアシスタント「Gemini」のアプリを、iPhoneを車の画面につなぐAppleの仕組み「CarPlay」で使えるようにしました。運転中に画面のアイコンを押し、声でAIと会話できます。会話の続きはiPhoneのアプリにも残ります。これまで車の中では、地図アプリ「Googleマップ」の中でしかGeminiを使えませんでした。使うには最新のアプリと、マイクの許可などが必要です。Googleは、会議の準備やメールの確認、お店探しなどに使えるとしています。",
+      "why": "Appleの車載画面に、ライバルのGoogleのAIが入りました。車の中が、各社のAIアシスタントが競う新しい場所になっています。",
+      "src": "Engadget",
+      "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta、計算基盤のトップが退任へ。後任は元Amazon幹部",
+      "body": "Metaで長くデータセンターなどの基盤を率いてきたサントシュ・ジャナルダン氏が、トップの座を退くことがわかりました。2009年に入社した古参で、今年はAI向け計算能力を広げる計画「Meta Compute」も任されていました。後任は今年Metaに入ったデーブ・ブラウン氏で、Amazonに19年いた人物です。ジャナルダン氏は相談役として残り、来年会社を離れる見込みです。社内メモで伝えられたと報じられ、退任の理由は明らかにされていません。",
+      "why": "MetaはAIのために巨額の設備投資を続けています。その要の役職が交代することで、今後の投資の進め方に注目が集まります。",
+      "src": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、利用者同士の質問サイトを20日で閉鎖",
+      "body": "Appleは、利用者同士が困りごとを質問し合うサイト「Apple サポートコミュニティ」を11月20日で完全に閉じると発表しました。すでに新しい書き込みはできず、読むだけの状態です。このサイトは1998年から名前を変えながら続いてきた、歴史の長い場所でした。Appleは、戦略と利用者のニーズを慎重に検討した結果だと説明し、今後は公式のサポートサイトを使うよう案内しています。20日以降、過去の書き込みが読めるかどうかははっきりしていません。",
+      "why": "古いMacやiPhoneの困りごとの答えが多く残る場所です。役立つ情報があれば、閉鎖前に自分で控えておくと安心です。",
+      "src": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Windows 11の11月更新、入らない報告が相次ぐ",
+      "body": "Microsoftが10日に配った、Windows 11の11月の安全更新（KB5132061）について、インストールが途中で失敗するという報告が相次いでいます。99%まで進んでから元に戻るケースや、何度やり直してもだめなケースがあるそうです。Microsoftの公式ページはまだ問題を認めていませんが、専門サイトは同社が原因を調べていると伝えています（未確認）。機能「Windowsサンドボックス」を切ると直るという声もありますが、確かな方法ではありません。",
+      "why": "この更新には、すでに悪用されている欠陥の修正も含まれます。失敗した人は公式の情報を確かめ、更新をあきらめないことが大切です。",
+      "src": "Windows Latest",
+      "url": "https://windowslatest.com/2026/11/11/microsoft-investigates-windows-11-kb5132061-issues-0x800f0993-0x80070306-and-0x800f0989-installation-errors"
+    },
+    {
+      "co": "apple",
+      "headline": "タイ政府、スパイウェア警告でAppleと面会と報道",
+      "body": "Appleが政治家などに送った「国家が関わるような高度なスパイウェアに狙われているかもしれない」という警告をめぐり、タイ政府がAppleの担当者と会ったと米ブルームバーグが報じました。タイの大臣は面会後、警告が届いても端末が乗っ取られたとは限らないと話したとされます。Appleは警告の理由を明かさず、守りを固める「ロックダウンモード」を使うよう勧めています。10月末の警告は99か国に送られたと報じられています。",
+      "why": "スマホが政治的な監視に使われる危険が、各国の政府も動く問題になっています。Appleの安全対策への信頼にも関わります。",
+      "src": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazonの衛星ネット、新ロケットで初打ち上げへ",
+      "body": "Amazonの衛星インターネット「Amazon Leo」の衛星を、米ULA社の大型ロケット「ヴァルカン」で初めて打ち上げる予定が、日本時間14日未明以降に組まれています。宇宙の動きを追うサイトによると、軌道上の衛星は9日時点で396基。Amazonは年内に米国や英国などで本格的なサービスを始めたい考えです。ただ、米当局が決めた期限までに必要な数の衛星をそろえられず、条件付きで猶予を受けている状態です。日程は変わる可能性があります。",
+      "why": "宇宙からのネット回線では、イーロン・マスク氏のスターリンクが先を行きます。打ち上げを増やせるかが、追い上げの鍵です。",
+      "src": "Orbital Radar",
+      "url": "https://orbitalradar.com/blog/orbital-briefing-2026-11-09"
+    }
+  ],
+  "calendar": [
+    { "when": "11/13（金）", "what": "Apple、家庭用端末「HomeView」を発売（米国）", "co": "apple" },
+    { "when": "11/14（土）未明", "what": "Amazon Leoの衛星をヴァルカンで初打ち上げ予定（米国時間13日、予定は変更の可能性）", "co": "amazon" },
+    { "when": "11/18（水）〜", "what": "Microsoft、年次イベント「Ignite」（米国時間17〜20日）", "co": "microsoft" },
+    { "when": "11/19（木）夕方", "what": "Amazon、ブラックフライデーのセール開始（米国時間19日）", "co": "amazon" },
+    { "when": "11/20（金）", "what": "Apple サポートコミュニティが閉鎖（米国時間）", "co": "apple" }
+  ]
+}
