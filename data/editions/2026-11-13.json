@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-13",
+  "label": "11月13日（金）号",
+  "coverage": "11月11日〜12日",
+  "minutes": 5,
+  "points": [
+    "Google：AI企業Anthropicの上場時に、約100億ドル分の株を買うと決定。株の持ち分がさらに増える見通し",
+    "Microsoft：Outlookなど仕事用のサービスが米国中心に大規模障害。一時12万人以上が不具合を報告",
+    "Meta：WhatsAppのデータを英国の規制当局に何度も誤って提出したとして、45万ポンドの罰金",
+    "Apple・Amazon：Appleの半導体トップがNvidia次期CEO候補と報道。AmazonはAI買い物係を英国へ"
+  ],
+  "items": [
+    {
+      "co": "google",
+      "headline": "Google、Anthropic上場時に100億ドル分の株を購入へ",
+      "body": "AI「Claude」を作るAnthropicが、11月10日に上場の書類を更新しました。Googleは上場時の値段で約100億ドル分の株を買う契約を結び、Nvidiaも同じく約100億ドルを出します。Googleの分は3月の契約で決まっていた出資枠を使うもので、新たなお金ではありません。株の値段は1株70〜78ドルの予定で、19日にナスダックで取引が始まる見込みです。Microsoftも約10億ドル分を買う予定と伝えられています。",
+      "why": "GoogleはAIで競う相手にも大きく出資しています。上場後の株価しだいで、Googleの持つ株の価値も大きく動きます。",
+      "src": "Dataconomy",
+      "url": "https://dataconomy.com/2026/11/12/google-and-nvidia-commit-10-billion-each-to-anthropic-ipo/"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Outlook・Teams・Copilotで大規模障害",
+      "body": "米国時間12日、Microsoftのメール「Outlook」が開けない、送れないといった不具合が広がりました。米東部時間の午後1時半ごろには12万人以上が障害を報告し、会議アプリ「Teams」やAIの「Copilot」にも影響が出ました。特に南北アメリカで目立ちました。Microsoftは、設備の一部に通常より大きな負荷がかかったことが原因とみて、通信の流れを分け直して対応しました。Teamsは北米で直ったとしていますが、つながりにくいという声も残りました。",
+      "why": "世界中の会社や役所が仕事の連絡に使うサービスです。止まると業務全体が止まるため、安定性への信頼が問われます。",
+      "src": "Euronews",
+      "url": "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta、WhatsAppのデータ誤りで英国から罰金",
+      "body": "英国の通信の規制当局オフコムは12日、Metaに45万ポンド（約60万ドル）の罰金を科しました。企業がお客さんに一斉に送るメッセージの市場を調べた際、Metaが出した「WhatsApp Business」の利用量や売上のデータに何度も誤りがあったためです。中には11か月も直されなかった誤りもありました。Metaが責任を認めて和解に応じたため、罰金は最初の60万ポンドから25%減らされました。Metaは「全面的に協力した」としています。",
+      "why": "金額はMetaにとって小さいものの、規制当局へ正しい情報を出す義務を軽く見ないよう、IT大手に釘を刺す意味があります。",
+      "src": "The Star（ロイター配信）",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/12/meta-fined-by-uk-regulator-over-repeated-inaccuracies-in-whatsapp-business-data"
+    },
+    {
+      "co": "apple",
+      "headline": "Appleの半導体トップ、Nvidia次期CEO候補と報道",
+      "body": "AI向け半導体の最大手Nvidiaで、取締役会がジェンスン・フアンCEOを退かせる準備をしていると米紙ウォール・ストリート・ジャーナルが報じました。CEOの私生活をめぐる問題が続いたことが背景です。後任候補として、Appleでチップ開発を率いてきたジョニー・スルージ氏の名前も挙がっていると伝えられています。ただ、最有力はNvidiaの財務責任者とされ、スルージ氏の起用は可能性が低いとの見方もあります。Nvidia、Appleともに確認しておらず、いずれも未確定の報道です。",
+      "why": "スルージ氏はiPhoneやMacの頭脳となるチップを育てた中心人物です。もし移れば、Appleの製品づくりに大きな影響が出ます。",
+      "src": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/12/nvidia-ceo-jensen-huang-set-to-be-fired-with-johny-srouji-listed-among-possible-replacements/"
+    },
+    {
+      "co": "amazon",
+      "headline": "AmazonのAI買い物係「Alexa for Shopping」、英国へ",
+      "body": "Amazonは、AIに質問すると商品を絞り込んで比べ、そのまま買えるようにする「Alexa for Shopping」を英国のアプリとサイトで使えるようにしたと報じられました。ブラックフライデー前のタイミングで、プライム会員でなくても使えます。この機能は以前「Rufus」と呼ばれていたAIを改名したものです。Amazonによると、過去12か月で4億人以上が利用し、使う人は使わない人より買い物の額が多いといいます。",
+      "why": "AIに相談して買う流れが広がれば、ネット通販の主導権争いが変わります。Amazonは自社のAIで客を囲い込む構えです。",
+      "src": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/e14c320b-ffa2-4bb9-8d8e-b90b555ad668"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：Anthropic上場とビッグテック",
+    "body": "Anthropicの上場に向け、Googleが約100億ドル、Microsoftが約10億ドル分の株を買う予定で、Amazonもすでに大株主です。AIで競い合う大手が、同じAI企業を支える側にも回っている点が、いまのAI業界の特徴です。"
+  },
+  "calendar": [
+    { "when": "11/14（土）未明", "what": "Amazon Leoの衛星40基をヴァルカンで打ち上げ予定（米国時間13日、変更の可能性あり）", "co": "amazon" },
+    { "when": "11/18（水）〜", "what": "Microsoft、年次イベント「Ignite」（米国時間17〜20日）", "co": "microsoft" },
+    { "when": "11/19（木）", "what": "Anthropicがナスダックに上場予定（Googleが大株主。米国時間18日に価格決定の見込み）", "co": "google" },
+    { "when": "11/19（木）夕方", "what": "Amazon、ブラックフライデーのセール開始（米国時間19日）", "co": "amazon" },
+    { "when": "11/20（金）", "what": "Apple サポートコミュニティが閉鎖（米国時間）", "co": "apple" }
+  ]
+}
