@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-14",
+  "label": "11月14日（土）号",
+  "coverage": "11月12日〜13日",
+  "minutes": 5,
+  "points": [
+    "Google、AIメガネを395ドルから予約開始。12月10日に米韓で発売",
+    "Microsoftの障害は約18時間に。メール以外のクラウドにも広がる",
+    "Google、速くて安い新AI「Gemini 4 Hydrogen」を公開",
+    "Apple、家庭用画面「HomeView」と新Apple TVを発売"
+  ],
+  "items": [
+    {
+      "co": "google",
+      "headline": "Google、AIメガネを395ドルから予約開始",
+      "body": "Googleは12日、Samsungと作ったAIメガネの予約受付を始めました。画面はなく、カメラとマイクで周りを見聞きし、話しかけるとAI「Gemini」が答える仕組みです。フレームはWarby ParkerとGentle Monsterの2ブランドで、価格は395ドルから。12月10日に米国と韓国で発売します。Androidに加えiPhoneでも使えます。周りの人の顔はAIが処理する前にぼかし、撮影中はランプが光るなど、プライバシー対策を前面に出しています。",
+      "why": "メガネ型AIはMetaが先行する分野です。Googleが価格とプライバシーを武器に本格参入し、次の「身につけるAI」の主導権争いが始まります。",
+      "src": "The Rundown AI",
+      "url": "https://www.therundown.ai/news/google-gemini-ai-glasses-preorders-privacy"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Microsoft障害、約18時間続きクラウド全体に拡大",
+      "body": "12日に始まったMicrosoftの障害は、通信を監視する企業の分析で約18時間続きました。最初はOutlookのメールとTeamsでしたが、その後ファイル保存、AIの「Copilot」、セキュリティ管理の道具、クラウド上のWindowsパソコンにまで広がりました。Microsoftは「多くのサーバーが予期せず使えなくなった」と説明し、13日には悪意ある攻撃の証拠はないとしています。根本原因はまだ調査中です。9月にも大きな障害があったばかりです。",
+      "why": "仕事のメールや書類を1社のクラウドに頼る企業は多く、止まると業務全体が止まります。原因の説明と再発防止策が注目されます。",
+      "src": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
+    },
+    {
+      "co": "google",
+      "headline": "Google、速くて安い新AI「Gemini 4 Hydrogen」",
+      "body": "Googleは12日、新しいAIモデル「Gemini 4 Hydrogen」を公開したと報じられました。これまでの「Flash」に当たる、軽くて速い型です。Googleによると前の型より約2.5倍速く、プログラミング作業のテストでも成績が大きく上がりました。開発者向けの料金は入力100万トークン（AIが文字を数える単位）あたり1.5ドル。Gemini アプリやGoogle検索のAIモードにすぐ使われ、今週先に出た上位モデル「Carbon」「Argon」と合わせ、新世代がそろいました。",
+      "why": "検索のAI回答など毎日大量に使われる場面では、速さと安さが勝負です。AIの値下げ競争が進むと、使う企業の負担も下がります。",
+      "src": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/999b5def-0fc4-4d1e-95ce-2cdef02700c1"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、家庭用画面「HomeView」と新Apple TV発売",
+      "body": "Appleは13日、家庭用のタッチ画面「HomeView」と、第4世代の「Apple TV 4K」を発売しました。どちらも299ドルで、新しいAI版のSiriを使えます。HomeViewは机置きと壁掛けがあり、顔を見分けて最大6人それぞれに合わせた画面を出します。ただし欧州連合（EU）では規制の関係でAI版Siriが使えず、HomeViewは販売されません。同じ日、LGなどと作った温度調整器や防犯カメラ「Home Collection」の予約も始まり、12月に出荷されます。",
+      "why": "スマホ頼みのAppleが「家の中心」をねらう一手です。Amazonの音声端末やGoogleの家庭用機器との競争が強まります。",
+      "src": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazonの衛星40基、打ち上げを土曜に延期",
+      "body": "Amazonの衛星インターネット「Amazon Leo」の衛星40基を載せたULAのロケット「ヴァルカン」は、13日の予定から米国時間14日（土）に延期されました。延期の理由は明らかにされていません。ヴァルカンは2月の打ち上げで補助ロケットに不具合が出て以来、9か月ぶりの飛行です。Amazonはこれまでに約400基を軌道に乗せていますが、7月以降は打ち上げが止まっていました。40基は1回分として過去最多です。",
+      "why": "米当局から決められた期限までに多くの衛星を上げる必要があり、打ち上げの遅れはStarlinkを追うAmazonにとって大きな課題です。",
+      "src": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIが「家」と「身体」に入ってくる",
+    "body": "GoogleはAIメガネ、AppleはAI版Siri入りの家庭用画面を相次いで売り出しました。先行するMetaのメガネやAmazonのAlexa端末も含め、AIをスマホの外、生活の中で使わせる競争が年末商戦で本格化しています。"
+  },
+  "calendar": [
+    { "when": "11/15（日）未明", "what": "Amazon Leoの衛星40基をヴァルカンで打ち上げ予定（米国時間14日、時刻は変更の可能性）", "co": "amazon" },
+    { "when": "11/18（水）〜", "what": "Microsoft、年次イベント「Ignite」（米国時間17〜20日）", "co": "microsoft" },
+    { "when": "11/19（木）", "what": "Anthropicがナスダックに上場予定（Googleが大株主。米国時間18日に価格決定の見込み）", "co": "google" },
+    { "when": "11/19（木）夕方", "what": "Amazon、ブラックフライデーのセール開始（米国時間19日）", "co": "amazon" },
+    { "when": "11/20（金）", "what": "Apple サポートコミュニティが閉鎖（米国時間）", "co": "apple" }
+  ]
+}
