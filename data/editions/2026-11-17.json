@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-17",
+  "label": "11月17日（火）号",
+  "coverage": "11月15日〜16日",
+  "minutes": 5,
+  "points": [
+    "Amazon、新しいジェームズ・ボンド役にロバート・パティンソンを正式発表",
+    "Google、Anthropicの上場に合わせ約100億ドル分の株を追加取得へ。株価は3%下落",
+    "Apple、2027年に15以上の新製品を準備と報道（未確定）",
+    "Amazon、カナダで仲裁人が決めた初の労働協約に「不当」と反発"
+  ],
+  "items": [
+    {
+      "co": "amazon",
+      "headline": "新007はロバート・パティンソン、Amazonが発表",
+      "body": "Amazonの映画会社Amazon MGMスタジオは16日、人気スパイ映画「007」シリーズの次のジェームズ・ボンド役に、俳優ロバート・パティンソンさんを起用すると発表しました。監督は『DUNE』シリーズのドゥニ・ヴィルヌーヴ氏、脚本はスティーヴン・ナイト氏が担当します。Amazonは2022年にMGMを買収し、2025年には長年シリーズを手がけてきた製作者側と合意して、作品づくりの主導権を握っていました。公開日はまだ明らかにされていません。",
+      "why": "Amazonが自分で育てる初の007映画が本格的に動き出しました。動画配信Prime Videoの看板作品になるかが注目です。",
+      "src": "Amazon News",
+      "url": "https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film"
+    },
+    {
+      "co": "google",
+      "headline": "Google、Anthropic株を約100億ドル追加取得へ",
+      "body": "AI企業Anthropicが上場に向けて出した書類で、Googleが上場と同時に約1億3500万株、金額にして約100億ドル分を買うことがわかりました。これは以前に約束していた投資の一部にあたります。Anthropicは米国時間18日に株の値段を決め、19日にナスダックで取引が始まる見込みです。Googleの持ち株はさらに増えますが、16日のAlphabetの株価は一時3%ほど下がりました。下落の理由ははっきりしていません。",
+      "why": "GoogleはAIの自社開発に加え、ライバル企業にも大きく賭けています。上場後の株価がGoogleの資産価値にも響きます。",
+      "src": "TradingView（GuruFocus）",
+      "url": "https://www.tradingview.com/news/gurufocus:651c349da094b:0-alphabet-stocks-decline-3-1-as-10-billion-anthropic-buy-lifts-stake-before-ipo/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、2027年に新製品15以上と報道",
+      "body": "米ブルームバーグの記者によると、Appleは2027年に15を超える新製品を出す計画だと報じられました（Appleは発表していません）。デザインを変えたiPhone Proや、折りたたみiPhoneの第2弾、薄型iPhone Airの第2弾などiPhoneだけで6機種。iPadは3種類、Macは新しいM7チップを積んだMacBook Proなど。さらにAIメガネや大きく見直したApple Watch、カメラ付きAirPods、卓上ロボットのような家庭用機器も含まれるとされます。",
+      "why": "AIメガネやロボットなど新しい分野が多く、iPhone頼みから抜け出すため、AppleがAI時代の新しい稼ぎ頭を探していることがうかがえます。",
+      "src": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/16/apple-has-15-new-products-coming-in-2027-per-report"
+    },
+    {
+      "co": "amazon",
+      "headline": "カナダの倉庫で初の労働協約、Amazonは反発",
+      "body": "カナダ西部ブリティッシュコロンビア州にあるAmazonの倉庫で、第三者の仲裁人が、労働組合と会社の間の協約（働く条件の約束）の内容を決めました。北米のAmazonで労働協約ができるのは初めてです。期間は2029年11月までで、従業員は組合に入り会費を払うことになります。Amazonはこの決め方を「不適切で不公平」と批判し、争う姿勢を示しています。会社側は裁判所に見直しを求めています。",
+      "why": "米国でも組合づくりの動きがある中、北米で初めての協約は、他の国や地域の倉庫で働く人の条件にも影響しそうです。",
+      "src": "ABC News（AP通信）",
+      "url": "https://abcnews.com/Business/wireStory/amazon-vows-fight-companys-north-american-union-contract-138186570"
+    },
+    {
+      "co": "meta",
+      "headline": "SNSの警告表示義務にIT業界団体が提訴",
+      "body": "MetaやGoogleなどが加わるIT業界団体NetChoiceは16日、米ニューヨーク州を訴えました。州は、SNSに若い利用者への悪影響を知らせる警告表示を出すよう義務づける法律を作り、2027年1月1日から始まる予定です。業界団体は、国が決めた文言を表示させるのは「言論の自由」に反すると主張しています。InstagramやFacebookを持つMetaにとって、子どもの安全をめぐる規制は大きな課題です。",
+      "why": "たばこの警告表示のような仕組みがSNSにも広がるかの分かれ目です。裁判の結果は他の州の規制づくりにも影響します。",
+      "src": "The National News Desk（KRCR）",
+      "url": "https://krcrtv.com/news/nation-world/internet-trade-group-sues-ny-over-law-mandating-warning-labels-for-social-media-platforms-new-york-kathy-hochul-meta-youtube-instagram-rtt"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Microsoft、年次イベント「Ignite」が開幕へ",
+      "body": "Microsoftの企業向け年次イベント「Ignite」が、米サンフランシスコで米国時間17日から20日まで開かれます。基調講演は17日午前10時（日本時間18日午前3時）からです。AIアシスタント「Copilot」や、仕事を自動でこなすAI（エージェント）、その安全対策が中心になるとみられます。直前の週には大規模なクラウド障害が起きたばかりで、信頼の回復につながる発表があるかも注目点です。",
+      "why": "企業がAIにお金を払い続けるかどうかは、Microsoftの成長を左右します。新機能や料金の発表に注目が集まります。",
+      "src": "Azure Tracks",
+      "url": "https://azuretracks.com/2026/11/azure-updates-microsoft-ignite-daily-roundup-november-16-2026/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：Anthropic上場とAIへの賭け",
+    "body": "今週はAI企業Anthropicの上場が大きな山場です。大株主のGoogleに加え、Amazonも出資しており、上場後の株価は両社の資産価値に影響します。同じ週にMicrosoftもIgniteでAIの新機能を打ち出す予定で、AIへの投資が実を結ぶかが問われる1週間になりそうです。"
+  },
+  "calendar": [
+    {
+      "when": "11/18（水）午前3時",
+      "what": "Microsoft「Ignite」基調講演（米国時間17〜20日開催）",
+      "co": "microsoft"
+    },
+    {
+      "when": "11/19（木）",
+      "what": "Anthropicの株価決定（米国時間18日）とナスダック上場（米国時間19日）予定。Googleが大株主",
+      "co": "google"
+    },
+    {
+      "when": "11/19（木）夕方",
+      "what": "Amazon、ブラックフライデーのセール開始（米国時間19日）",
+      "co": "amazon"
+    },
+    {
+      "when": "11/20（金）",
+      "what": "Apple サポートコミュニティが閉鎖（米国時間）",
+      "co": "apple"
+    },
+    {
+      "when": "11/24（火）頃",
+      "what": "Amazon Leoの衛星36基をアリアン6で打ち上げ予定（米国時間23日以降、変更の可能性あり）",
+      "co": "amazon"
+    }
+  ]
+}
