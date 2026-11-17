@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-18",
+  "label": "11月18日（水）号",
+  "coverage": "11月16日〜17日",
+  "minutes": 5,
+  "points": [
+    "Microsoftが年次イベントIgniteで、仕事用AI「Copilot」の新機能と自社製AIモデルを発表",
+    "Anthropicの上場書類で、Googleに約1213億ドル分の計算資源の利用を約束していると判明",
+    "AppleのiCloudやApp Storeで障害。サインアウトやアプリが落とせない声が相次ぐ",
+    "Amazonはインドの再生可能エネルギーに70億ドル、Metaはメッセージ専用アプリを試験公開"
+  ],
+  "items": [
+    {
+      "co": "microsoft",
+      "headline": "Microsoft、Igniteで仕事AIと自社モデル拡充",
+      "body": "Microsoftは米国時間17日、企業向けの年次イベント「Ignite」を開幕しました。仕事用AI「Copilot」では、チャットと作業代行をまとめた新画面などを正式に提供し、より自動で仕事を進める「Autopilot」も一部の先行顧客向けに配り始めました。あわせて、プログラムを書くための自社製AIモデル「Code 2」シリーズも発表。開発者向けサービスには他社モデルも並び、OpenAIの最新モデルやMetaの「Muse」シリーズも近く使えるようになるとしています。企業で動くAIエージェントの登録数は5000万を超えたといいます。",
+      "why": "OpenAI頼みから、自社モデルと他社モデルを使い分ける形へ。会社のパソコン作業がAI任せになる流れが一段と進みます。",
+      "src": "Microsoft公式ブログ",
+      "url": "https://microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work"
+    },
+    {
+      "co": "google",
+      "headline": "Anthropic上場書類、Googleと巨額の計算資源契約",
+      "body": "AI企業Anthropicの上場に向けた書類から、Googleのクラウドを2033年7月まで使い続け、少なくとも1213億ドル分を支払う約束をしていることがわかりました。年に直すと約167億ドルで、実際に使った量にかかわらず支払う内容です。Amazonとも最低1100億ドル、Microsoftとも約470億〜490億ドルの契約があり、Googleが最大の取引先です。Anthropicは米国時間18日に株価を決め、19日にナスダックに上場する予定です。17日のAlphabet株は小幅に下がりました。",
+      "why": "Googleは出資者であると同時に大口のクラウド顧客を抱える形。AIブームが続けばGoogleのクラウド収入を長く支えます。",
+      "src": "TradingView（GuruFocus）",
+      "url": "https://www.tradingview.com/news/gurufocus:f16646497094b:0-alphabet-stocks-move-lower-as-anthropic-ipo-filing-shows-121-3-billion-google-commitment/"
+    },
+    {
+      "co": "apple",
+      "headline": "AppleのiCloudやApp Storeで障害",
+      "body": "米国時間17日、AppleのiCloud、App Store、Apple Pay、Apple Musicなどのサービスでトラブルが起きました。iPhoneやMacで勝手にiCloudからサインアウトされ、入り直そうとしても確認がうまくいかないという報告や、App Storeが開けずアプリをダウンロードできないという声が相次ぎました。アプリ開発者向けの管理画面にも入りにくくなりました。報道の時点では、Appleの公式の稼働状況ページは「正常」のままで、原因や復旧の見通しは示されていませんでした。影響の広さもはっきりしていません。",
+      "why": "スマホの写真や支払いはクラウド頼み。先週のMicrosoftの大規模障害に続き、巨大サービスの止まりやすさが改めて意識されています。",
+      "src": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazon、インドの再エネに70億ドル投資へ",
+      "body": "Amazonは17日、2030年までにインドの再生可能エネルギー事業へ70億ドルを投資すると発表しました。すでに契約した40億ドルとは別枠です。カルナータカ州の風力発電など、風力と太陽光の大型発電所4カ所（合計934メガワット）を新たに加えます。これらが動き出すと、インドでの発電能力は2ギガワットを超え、350万世帯以上の電気をまかなえる規模になるといいます。また、電気を使うときに出る二酸化炭素の量を、2019年と比べて2030年までに65%減らす新たな目標も掲げました。",
+      "why": "AIやデータセンターで電気の使用量は急増中。巨大IT企業が電源の確保そのものに大金を投じる時代になっています。",
+      "src": "Amazon公式（About Amazon）",
+      "url": "https://aboutamazon.com/news/sustainability/amazon-investment-india-renewable-energy"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta、メッセージ専用アプリ「Direct」を試験公開",
+      "body": "Metaは、Instagramのメッセージ機能を切り出した単独アプリ「Direct」を、トルコとタイのiPhoneとAndroid利用者向けに試験的に公開しました。メールアドレスか電話番号で登録でき、Instagramでログインすれば今までのやり取りをそのまま続けられます。手書きの落書きやオリジナルスタンプ、チャットの見た目の変更などが使えます。知らない人から突然話しかけられないよう、チャットを始められるのは連絡先の相手だけです。利用は13歳以上で、年齢が疑わしいアカウントは確認を求められます。ほかの国での提供時期は未定です。",
+      "why": "若者の会話の場をLINEやSnapchatなどと争う一手。広告以外の場でも利用者を囲い込もうとしています。",
+      "src": "CyberInsider",
+      "url": "https://cyberinsider.com/meta-direct-standalone-messaging-app/"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta、インドでInstagramの過激投稿対策を強化",
+      "body": "Metaは、インドでInstagramの暴力的・性的な投稿の削除を強めていると報じられました。利用者が「見たくない投稿がおすすめに出た」と報告する割合は、1年前と比べて約半分に減ったといい、Metaは性能の上がったAIで投稿をチェックしている効果だと説明しています。インドはSNS利用者が5億人を超える大市場で、当局は子どもを傷つける投稿の削除や、詐欺への懸念からWhatsAppの新機能の延期を求めたとも伝えられています。一方、政府による投稿の削除命令には反発の声も出ています。",
+      "why": "最大級の市場で規制当局の目が厳しくなっています。安全対策と表現の自由のバランスが各国で問われています。",
+      "src": "Business Today（Bloomberg報道を引用）",
+      "url": "https://businesstoday.in/technology/news/story/instagram-faces-fresh-india-scrutiny-as-meta-steps-up-action-against-explicit-content-567827-2026-11-17"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIを動かす「土台」の奪い合い",
+    "body": "Anthropicの上場書類では、Google・Amazon・Microsoftの3社と合計で数千億ドル規模の計算資源契約を結んでいることが見えました。Microsoftは自社モデルを増やしつつ他社モデルも並べ、Amazonは電源となる再生可能エネルギーに巨額を投じています。AIそのものだけでなく、計算機と電気を誰が押さえるかが勝負の分かれ目になっています。"
+  },
+  "calendar": [
+    { "when": "11/18（水）〜21（土）", "what": "Microsoft「Ignite」開催中（米国時間17〜20日）", "co": "microsoft" },
+    { "when": "11/19（木）朝", "what": "Anthropicの株価決定（米国時間18日）。Googleが大株主", "co": "google" },
+    { "when": "11/19（木）夜", "what": "Anthropicがナスダックに上場予定（米国時間19日）", "co": "google" },
+    { "when": "11/19（木）夕方", "what": "Amazon、ブラックフライデーのセール開始（米国時間19日）", "co": "amazon" },
+    { "when": "11/20（金）", "what": "Apple サポートコミュニティが閉鎖（米国時間）", "co": "apple" },
+    { "when": "11/24（火）頃", "what": "Amazon Leoの衛星36基をアリアン6で打ち上げ予定（変更の可能性あり）", "co": "amazon" }
+  ]
+}
