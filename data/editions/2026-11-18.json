@@ -66,8 +66,8 @@
   "calendar": [
     { "when": "11/18（水）〜21（土）", "what": "Microsoft「Ignite」開催中（米国時間17〜20日）", "co": "microsoft" },
     { "when": "11/19（木）朝", "what": "Anthropicの株価決定（米国時間18日）。Googleが大株主", "co": "google" },
-    { "when": "11/19（木）夜", "what": "Anthropicがナスダックに上場予定（米国時間19日）", "co": "google" },
     { "when": "11/19（木）夕方", "what": "Amazon、ブラックフライデーのセール開始（米国時間19日）", "co": "amazon" },
+    { "when": "11/19（木）夜", "what": "Anthropicがナスダックに上場予定（米国時間19日）", "co": "google" },
     { "when": "11/20（金）", "what": "Apple サポートコミュニティが閉鎖（米国時間）", "co": "apple" },
     { "when": "11/24（火）頃", "what": "Amazon Leoの衛星36基をアリアン6で打ち上げ予定（変更の可能性あり）", "co": "amazon" }
   ]
