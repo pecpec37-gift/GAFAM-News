@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-19",
+  "label": "11月19日（木）号",
+  "coverage": "11月16日〜18日",
+  "minutes": 5,
+  "points": [
+    "Microsoft、中国ByteDanceとの約5億ドルのクラウド契約が近いと報道。OpenAIは不満",
+    "Googleが大株主のAnthropic、上場前に注文が殺到。価格は想定より上がる見通し",
+    "Appleの大規模障害は「社内の更新作業」が原因。サイバー攻撃ではないと説明",
+    "Meta、カナダでニュース表示を再開する合意が近いと報道。Amazonはデータセンターを50億ドルで売却・賃借"
+  ],
+  "items": [
+    {
+      "co": "microsoft",
+      "headline": "Microsoft、ByteDanceと5億ドル契約へと報道",
+      "body": "米メディアの報道によると、Microsoftは中国のByteDance（TikTokの親会社）とのクラウド契約を約5億ドル分広げる交渉が大詰めです。中心はMicrosoftのクラウド「Azure」を通じて売るOpenAIのAIモデルです。OpenAI自身は多くの中国企業への提供を止めており、中国企業に自社AIをまねされることを警戒しているため、この動きに不満を伝えたとされます。各社は公式に認めておらず、内容は未確定です。",
+      "why": "米中の対立が続く中で、AIを誰に売るかが新たな火種になっています。MicrosoftとOpenAIの協力関係にも影響しそうです。",
+      "src": "PYMNTS",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsofts-500-million-bytedance-deal-dismays-openai/"
+    },
+    {
+      "co": "google",
+      "headline": "Anthropic上場へ、注文殺到で価格上振れ観測",
+      "body": "AI企業Anthropicが米国時間19日にナスダックへ上場します。1株70〜78ドルの仮の価格帯に対し、買い注文は売り出す株の数倍に達したと報じられ、価格は帯より上で決まる見通しです。価格帯の上限なら企業価値は1兆ドルを大きく超えます。Googleの親会社Alphabetは、上場に合わせた別枠の株の購入にも加わる予定で、大株主としての存在感が一段と増します。価格は米国時間18日夜に決まる予定です。",
+      "why": "史上最大級の上場で、Googleが持つAnthropic株の価値も大きく動きます。AIブームの勢いが本物かを測る試金石です。",
+      "src": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-set-to-price-stock-between-70-and-78-as-trading-starts-thursday-174130523.html"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple障害の原因は社内の更新作業",
+      "body": "米国時間17日に起きたAppleの大規模な障害について、Appleは「社内システムの更新作業」が原因で、サイバー攻撃ではないと説明しました。障害ではAppleアカウントにサインインできなくなり、直営店では会計ができない状態にもなりました。Appleは大部分は復旧したとし、残るシステムの回復を進めていました。iCloudメールやAppleCareなどにも影響が出ていました。今月はMicrosoftのメールやチャットでも大きな障害があり、大手のサービス停止が続いています。",
+      "why": "攻撃でないと分かった一方、社内の更新1つで店舗の会計まで止まる弱さが表に出ました。再発防止策が注目されます。",
+      "src": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/17/apple-outage-internal-update/"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta、カナダでニュース再開の合意間近か",
+      "body": "Metaとカナダ政府が、FacebookやInstagramでのニュース表示を再開させる合意に近づいていると米メディアが報じました。案では、Metaはニュースのブロックをやめて報道機関と個別に契約を結ぶ代わりに、ニュース使用料を求めるカナダの法律の対象から外れるとされます。Metaは2023年の法律成立後、カナダでニュースを見られなくしていました。担当大臣は「交渉は非公開」とし、内容は未確定です。",
+      "why": "IT大手が記事の対価を報道機関にどう払うかは、日本でも議論の的です。各国のルール作りに影響しそうです。",
+      "src": "Global News",
+      "url": "https://globalnews.ca/news/12156527/meta-talks-confidential/"
+    },
+    {
+      "co": "amazon",
+      "headline": "AWS、データセンター権益を50億ドルで売却",
+      "body": "投資会社Blackstoneの不動産投資会社が、AmazonのクラウドAWSのデータセンター2拠点にある新しい建物13棟について、権益の75％を約50億ドルで買うと発表しました。AWSは25％を持ち続け、建物は全部借りて使い続けます。賃貸の期間は最初12年で、最長32年まで延ばせます。取引は2026年10〜12月期に完了する見込みです。Amazonは建物を売って得たお金を、新しいデータセンターづくりなどに回せます。",
+      "why": "AI用のデータセンターには巨額のお金がかかります。建物を売って借り直す形で資金を回す手法が、大手の間で広がっています。",
+      "src": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/amazon-s-aws-strikes-5-b-data-center-deal-with-blackstone-digital-a-look-at-some-key-highlights/cNb7pf4R9gb"
+    },
+    {
+      "co": "google",
+      "headline": "Google「AIだけで動くサイバー攻撃が半年内に」",
+      "body": "Googleの脅威分析チームは、人がほとんど関わらずAIが自動で弱点を探して攻撃する手口が広がっていると警告しました。直近3か月で、人の操作なしに弱点の発見から攻撃までを行った例を初めて確認したといいます。Googleは、3か月以内に人の手がほぼ要らない攻撃が現れ、半年以内には高度で完全に自動の攻撃が起きる可能性が高いと見ています。フランスのメディアや教育機関のサイトが狙われた例も報告されています。",
+      "why": "攻撃のスピードと数が一気に増えるおそれがあります。企業も個人も、ソフトの更新など基本の対策がより大切になります。",
+      "src": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIの「計算力」をめぐるお金の流れ",
+    "body": "MicrosoftはOpenAIのAIを中国企業へ売る契約を広げ、GoogleはAnthropicの上場に合わせて出資を増やし、Amazonはデータセンターを売って借りる形で資金を確保しています。AIを動かす計算力をだれが持ち、だれに売るかが、各社の戦略の中心になっています。"
+  },
+  "calendar": [
+    {
+      "when": "11/19（木）朝",
+      "what": "Anthropicの株価決定（米国時間18日夜）。Googleが大株主",
+      "co": "google"
+    },
+    {
+      "when": "11/19（木）夕方",
+      "what": "Amazon、ブラックフライデーのセール開始（米国時間19日）",
+      "co": "amazon"
+    },
+    {
+      "when": "11/19（木）夜",
+      "what": "Anthropicがナスダックに上場予定（米国時間19日）",
+      "co": "google"
+    },
+    {
+      "when": "11/19（木）〜21（土）",
+      "what": "Microsoft「Ignite」開催中（米国時間20日まで）",
+      "co": "microsoft"
+    },
+    {
+      "when": "11/20（金）",
+      "what": "Apple サポートコミュニティが閉鎖（米国時間）",
+      "co": "apple"
+    },
+    {
+      "when": "11/24（火）頃",
+      "what": "Amazon Leoの衛星36基をアリアン6で打ち上げ予定（変更の可能性あり）",
+      "co": "amazon"
+    }
+  ]
+}
