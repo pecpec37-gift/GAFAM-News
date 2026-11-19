@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-20",
+  "label": "11月20日（金）号",
+  "coverage": "11月17日〜19日",
+  "minutes": 5,
+  "points": [
+    "Anthropicがナスダックに上場、初値は公開価格の34%高。大株主のGoogleとAmazonも注目",
+    "GoogleのGeminiがMacを代わりに操作。新モデル「Gemini 4 Neon」も登場",
+    "Meta、ザッカーバーグ氏向けの新株発行を株主訴訟を受けて一時停止と報道",
+    "Appleはフランスで修理制限をめぐる刑事裁判へ。MicrosoftはSalesforceと連携強化"
+  ],
+  "items": [
+    {
+      "co": "google",
+      "headline": "Anthropic上場、初値34%高　Googleは大株主",
+      "body": "AI「Claude」を作るAnthropicが米国時間19日、ナスダックに上場しました（銘柄コードANT）。公開価格は83ドルで、調達額は約813億ドルと過去最大級。初値は111.50ドルと34%高く始まりましたが、その後は上げ幅を縮め、午後は公開価格を2割ほど上回る水準で取引されました。企業価値は約1.5兆ドルとされます。GoogleとAmazonはそれぞれ1割を超える株を持つ大株主で、保有株の価値は大きく膨らみました。",
+      "why": "AIへの巨額投資が報われるかを測る試金石です。出資してきたGoogleとAmazonの利益や株価にも、今後大きく影響します。",
+      "src": "24/7 Wall St.（Yahoo Finance）",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-jumps-17-record-nasdaq-180734709.html"
+    },
+    {
+      "co": "google",
+      "headline": "Gemini、Macのアプリを代わりに操作",
+      "body": "GoogleはMac向けGeminiアプリに、AIがパソコンを操作する機能を加えました。Mac本来のアプリを動かしたり、裏でウェブを調べたりでき、作業の様子は画面で確認しながら、途中で止めたり実行前に許可したりできます。まずは米国の英語版で、有料プランの利用者が対象です。前日には新モデル「Gemini 4 Neon」も発表。最上位と日常用の中間に位置し、深い分析を速く安くこなすのが売りです。外部のAI性能ランキングでは3位に入りました。",
+      "why": "AIが「答える」から「代わりに作業する」段階へ進んでいます。OpenAIやAnthropicも力を入れる、競争の主戦場です。",
+      "src": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta、ザッカーバーグ氏向け新株発行を一時停止",
+      "body": "Metaは、議決権のない新しい種類の株（クラスC）を全株主に配る計画のうち、ザッカーバーグ氏への発行を保留したと報じられました。この計画は、同氏が支配力を保ったまま株を売りやすくなるとして、株主が米デラウェア州の裁判所に差し止めを求めていました。報道によると、裁判が続く間は発行を止めるとしています。この計画は全株主に25億株超を配る大規模なもので、10月に取締役会が承認し、来年1月の取引開始を予定していました。",
+      "why": "創業者の強い支配と一般株主の利益をどう両立させるかが問われる例です。来年の裁判の行方と、計画全体の見直しの有無が注目されます。",
+      "src": "NewsBytes",
+      "url": "https://www.newsbytesapp.com/news/business/meta-halts-class-c-share-grant-to-mark-zuckerberg/tldr"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、iPhone修理制限でフランスの裁判へ",
+      "body": "Appleはフランスで、iPhoneの修理を妨げたとして刑事裁判にかけられることになりました。訴えたのは「計画的陳腐化」に反対する市民団体で、部品を特定の本体にひもづける仕組みのせいで、純正部品でも外部で交換すると画面やカメラなどが正しく動かなくなったと主張しています。対象は24機種。2027年2月に日程を決める審理があり、6月に本格的な審理が行われる見通しです。Appleは主張は根拠がないとしています。",
+      "why": "「自分で直す権利」をめぐる象徴的な裁判です。結果しだいで、欧州の修理ルールやスマホの設計の考え方に影響が出る可能性があります。",
+      "src": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/19/apple-faces-planned-obsolescence-trial/"
+    },
+    {
+      "co": "microsoft",
+      "headline": "MicrosoftとSalesforce、Copilotで連携",
+      "body": "Microsoftは年次イベント「Ignite」で、顧客管理ソフト大手のSalesforceとの連携を発表しました。仕事用AI「Copilot」の中からSalesforceの営業機能を使える追加機能「Copilotforce」を試験公開し、38以上の営業向け機能をそろえます。チャットの「Teams」でSalesforceを使う試みや、両社のデータを複製せずにつなぐ仕組みも用意。最初の試験導入先はコンサル大手のアクセンチュアです。",
+      "why": "かつてのライバル同士が手を組み、仕事の入り口をCopilotに集める狙いです。企業向けAIの主導権争いでの大きな一手といえます。",
+      "src": "CX Today",
+      "url": "https://www.cxtoday.com/in-brief/microsoft-and-salesforce-launch-copilotforce-at-ignite-unVhN5svsT2qGbmAI3bxXjA"
+    },
+    {
+      "co": "amazon",
+      "headline": "AWS、病院の電話対応をAIが代行",
+      "body": "AWSは医療機関向けサービスで、患者からの電話にAIが自動で応じる機能を広げると発表しました。予約、薬の処方の更新、受付時間の案内などを、営業時間外も含めてAIが受け付けます。急ぎの相談や人と話したい要望は職員に引き継ぎ、医療的な助言はしません。先行導入したカリフォルニア大学サンディエゴ校の病院では、1件あたりの対応が約1分短くなり、途中で切れる電話も3割減ったといいます。電子カルテ大手のEpicなど既存の仕組みともつながります。",
+      "why": "人手不足が深刻な医療現場で、AIが目に見える成果を出し始めた例です。医療はAWSが特に力を入れている成長分野でもあります。",
+      "src": "Newsweek",
+      "url": "https://newsweek.com/amazon-is-giving-its-patient-facing-ai-agents-more-to-do-access-health-12730024"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIが「代わりに働く」段階へ",
+    "body": "GoogleはGeminiにMacの操作を任せ、MicrosoftはCopilotからSalesforceを動かし、AWSは病院の電話をAIに任せる仕組みを広げました。各社とも、質問に答えるAIから実際の作業をこなすAIへと軸足を移しています。その代表格であるAnthropicの上場も、この流れへの市場の期待を映しています。"
+  },
+  "calendar": [
+    {
+      "when": "11/24（火）頃",
+      "what": "Amazon Leoの衛星36基をアリアン6で打ち上げ予定（変更の可能性あり）",
+      "co": "amazon"
+    },
+    {
+      "when": "11/27（金）",
+      "what": "米感謝祭の翌日「ブラックフライデー」。Amazonのセールは28日（土）夕方まで",
+      "co": "amazon"
+    },
+    {
+      "when": "12/1（火）〜5（土）",
+      "what": "AWS年次イベント「re:Invent」（米国時間11/30〜12/4、ラスベガス）",
+      "co": "amazon"
+    }
+  ]
+}
