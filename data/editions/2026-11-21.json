@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-21",
+  "label": "11月21日（土）号",
+  "coverage": "11月18日〜20日",
+  "minutes": 5,
+  "points": [
+    "Microsoftのナデラ氏、6万人への退職募集に「今まで通りとは言えない」",
+    "Google、速さと賢さを両立した新AI「Gemini 4 Neon」を公開",
+    "Amazon、NY市の配達員の直接雇用法案に反対。アプリで利用者に呼びかけ",
+    "Alphabet、カナダで約42億ドルの社債。AI投資のための資金集めが続く"
+  ],
+  "items": [
+    {
+      "co": "microsoft",
+      "headline": "ナデラ氏、6万人の退職募集に「同じではいられない」",
+      "body": "Microsoftのサティア・ナデラCEOは、米国の技術系ポッドキャストで、約6万人を対象にした希望退職の募集について聞かれ、AIの時代に会社の働き方が今まで通りとは約束できないと話しました。20万人を超える社員の配置を組み替える必要があるとも述べ、人員削減につながるかどうかは明言しませんでした。会社側は応募は対象者の5%未満と見込んでいます。また別の番組では、12日のOutlook大規模障害について、もっと試験を重ねて被害を広げない仕組みを作るべきだったと認めました。",
+      "why": "AIへの巨額投資を進める一方で、社員の役割をどう変えるのか。世界有数の大企業の雇用の行方を占う発言として、IT業界全体から注目されています。",
+      "src": "Windows Latest",
+      "url": "https://www.windowslatest.com/2026/11/19/asked-if-60000-exit-offers-mean-ai-layoffs-at-microsoft-satya-nadella-said-i-wish-i-could-just-sit-here-and-say-itll-all-be-the-same-i-cannot/"
+    },
+    {
+      "co": "google",
+      "headline": "Google、新AI「Gemini 4 Neon」を公開",
+      "body": "Googleは18日、新しいAIモデル「Gemini 4 Neon」を公開しました。最上位に近い考える力を持ちながら、速く安く動くのが特長で、有料プランのAI ProとAI Ultraの利用者が使えます。アプリでは「じっくり分析」用のモデルとして選べ、一度に読み込める量は約100万トークン（本数冊分）です。外部の性能比較ではプログラミング作業で1位になったとされます。開発者向けの料金も示され、既存モデルの一部は12月から値上げされます。今月はCarbon、Hydrogenに続く3つ目の新モデルです。",
+      "why": "用途に合わせてAIを使い分ける流れが広がっています。OpenAIやAnthropicなどとの間で、性能と価格の両面の競争が一段と激しくなっています。",
+      "src": "9to5Google",
+      "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazon、NY市の配達法案に反対し利用者に呼びかけ",
+      "body": "Amazonは19日から、ニューヨーク市の利用者のアプリやサイトに、市議会で審議待ちの「配達保護法案」に反対するよう求める案内を出し始めました。法案は、今は下請け会社を通じて働く配達員を、Amazonが直接雇うよう求める内容です。Amazonは、成立すれば1回の注文で最大5ドル配達費が上がるおそれがあり、市外への拠点移転も考えざるを得ないと主張しています。マムダニ市長は8月に法案支持を表明しており、労働組合も後押ししています。",
+      "why": "成立すれば、ネット通販の配達を下請けに任せる仕組みそのものが変わる可能性があります。配達料金や働く人の待遇、他の都市への波及が注目されます。",
+      "src": "RTTNews",
+      "url": "https://www.rttnews.com/3716480/amazon-warns-nyc-delivery-bill-could-add-5-per-order-threatens-relocation.aspx"
+    },
+    {
+      "co": "google",
+      "headline": "Alphabet、カナダで約42億ドルの社債を発行",
+      "body": "Googleの親会社Alphabetは、カナダドル建ての社債（会社の借金の証書）を4種類に分けて発行し、60億カナダドル、約42億ドルを集めました。19日に条件が決まり、24日に払い込まれます。使い道は借金の返済を含む一般的な目的とされています。巨大IT企業はAIのデータセンターなどにかかる費用をまかなうため、借り入れや株の発行を増やしています。Alphabetは7〜9月期に、手元に残るお金を示す「フリーキャッシュフロー」が91億ドルのマイナスでした。",
+      "why": "稼ぎを上回るペースでAIに投資しており、借金を使った資金集めがどこまで続けられるかが市場の関心事です。他の巨大IT企業も同じ道をたどっています。",
+      "src": "BNN Bloomberg（ロイター）",
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/20/alphabet-raises-6-billion-in-canadian-bond-offering/"
+    },
+    {
+      "co": "meta",
+      "headline": "台湾、選挙介入の疑いでThreads約2700件を通報",
+      "body": "ロイターによると、台湾当局は、中国とつながりがあるとみられる約2,700のアカウントをMetaに知らせました。多くはMetaのSNS「Threads」にあり、ここ4カ月でまとめて作られていました。11月28日の台湾の市長・県知事選挙に向けて世論を動かす狙いがあると当局はみています。別の約260アカウントはAIで作った動画を2,150本以上広めていたとされます。Metaは通報されたアカウントを削除し、多くは既に止めていたと説明。選挙の投稿はなかったとしています。",
+      "why": "AIで偽の動画や投稿を大量に作れる時代に、SNSを運営する企業が選挙の公正さをどう守るのか。各国の選挙を前に、その責任が改めて問われています。",
+      "src": "ThePrint（ロイター）",
+      "url": "https://theprint.in/world/exclusive-taiwan-tells-meta-thousands-of-china-linked-accounts-seek-to-influence-elections/3103864"
+    },
+    {
+      "co": "apple",
+      "headline": "iPhoneのカメラアプリ担当幹部が退職と報道",
+      "body": "米ブルームバーグの報道として米メディアが伝えたところでは、Appleでカメラと写真のソフトウェア開発を率いてきたジョン・マコーマック副社長が、10月末で退職しました。8年以上Appleに在籍し、iPhoneの「カメラ」アプリや「写真」アプリと、その裏で動く画像処理の技術を担当してきたとされます。後任は明らかになっていません。Appleは今年、CEO交代のほかAIやSiriの担当でも幹部の入れ替わりが続いています。",
+      "why": "カメラはiPhoneの大きな売りの一つです。新CEOのもとで続く幹部の入れ替わりが、今後の製品づくりにどう響くかが注目されます。",
+      "src": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/19/iphone-camera-app-vp-retires/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIのためにお金と人を組み替える",
+    "body": "Alphabetは社債で資金を集め、Microsoftは大規模な希望退職で人の配置を見直しています。AIへの投資が膨らむなか、巨大IT企業は資金の集め方と社員の働き方の両方を作り変えようとしています。"
+  },
+  "calendar": [
+    {
+      "when": "11/24（火）頃",
+      "what": "Amazon Leoの衛星36基をアリアン6で打ち上げ予定（現地23日、変更の可能性あり）",
+      "co": "amazon"
+    },
+    {
+      "when": "11/27（金）",
+      "what": "米感謝祭の翌日「ブラックフライデー」。Amazonのセールは28日（土）夕方まで",
+      "co": "amazon"
+    },
+    {
+      "when": "11/28（土）",
+      "what": "台湾の統一地方選挙。Threadsでの偽アカウント対策に注目",
+      "co": "meta"
+    },
+    {
+      "when": "12/1（火）",
+      "what": "Gemini開発者向け料金の一部（Argon、Carbon）が値上げ（米国時間11/30まで旧料金）",
+      "co": "google"
+    },
+    {
+      "when": "12/1（火）〜5（土）",
+      "what": "AWS年次イベント「re:Invent」（米国時間11/30〜12/4、ラスベガス）",
+      "co": "amazon"
+    }
+  ]
+}
