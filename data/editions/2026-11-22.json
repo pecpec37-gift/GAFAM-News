@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-22",
+  "label": "11月22日（日）号",
+  "coverage": "11月20日〜21日",
+  "minutes": 5,
+  "points": [
+    "米国のハイテク株が急落。ナスダック指数は1日で約5%下がり、今年の上昇分が消えた",
+    "Googleの自動運転Waymo、閉鎖車線に入る問題などで2件のリコール。加州では高速道路の走行禁止も",
+    "Microsoftの管理用サービスに欠陥。企業の管理者メールなどが外部に見られていたと公表",
+    "インドで野党がMeta事務所前で抗議。Appleは11/27から4日間の年末セールを発表"
+  ],
+  "items": [
+    {
+      "co": "amazon",
+      "headline": "ハイテク株が急落、Amazonは4%安",
+      "body": "米国時間20日、AI関連株を中心に売りが広がり、ナスダック指数は約5.3%下落して今年の上昇分を失いました。S&P500も3.7%下がりました。AI半導体のNVIDIAは、米証券当局が会計を調べているとの報道もあって14%急落。GAFAMも全社下がり、Metaは約5.9%、Amazonは約4.1%、Microsoftは約2.8%、Alphabetは約2.6%、Appleは約1.9%の下落でした。Amazonは巨額のAI投資で手元のお金が減っていることへの心配も重なりました。前日に上場したAnthropicも8%余り下がりました。",
+      "why": "「AIにお金をかけすぎでは」という不安が一気に表に出ました。各社の投資計画や来年の見通しに市場の目が厳しくなりそうです。",
+      "src": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-amazon-shares-slide-on-ai-and-mega-cap-tech-sell-off/"
+    },
+    {
+      "co": "google",
+      "headline": "Waymo、閉鎖車線への進入などで2件のリコール",
+      "body": "Alphabet傘下の自動運転タクシー会社Waymoは20日、2件のリコール（不具合の届け出と修正）を発表しました。1つは、工事などで閉鎖された高速道路の車線に入って走り続けてしまう問題で、直し方はまだ開発中です。もう1つは、交差点で警察官の手信号にうまく従えない問題で、こちらは修正済みです。カリフォルニア州は11日付けでWaymoの高速道路走行を禁止しており、Waymoは他の都市でも高速道路での運行を止めています。一般道でのサービスは続いています。",
+      "why": "自動運転の安全性に行政がブレーキをかけた形です。どれだけ早く信頼を取り戻せるかが、事業拡大のカギになります。",
+      "src": "Reuters（Investing.com）",
+      "url": "https://www.investing.com/news/stock-market-news/waymo-recalls-selfdriving-cars-over-closed-freeway-lanes-manual-traffic-control-5042522"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Microsoft、管理サービスの欠陥で企業情報が流出",
+      "body": "Microsoftは、企業のIDを管理する「Entra」の一部サービスに欠陥があり、何者かに悪用されたと明らかにしました。欠陥は7月に入り込み、11月9日に見つけて19日に修正しました。見られたのは管理者の連絡用メールアドレスや会社のドメイン名、契約プランなどで、パスワードや鍵は含まれないと説明しています。設定の書き換えはなかったとしています。被害を受けた企業の数は公表していません。会社側で修正作業をする必要はないとのことです。",
+      "why": "管理者のメールが知られると、狙いを定めた詐欺メールに使われるおそれがあります。企業は不審なメールへの警戒が必要です。",
+      "src": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+    },
+    {
+      "co": "meta",
+      "headline": "インド野党、アカウント制限でMetaに抗議",
+      "body": "インドの最大野党・国民会議派の青年組織が20日、ハイデラバードやムンバイなどにあるMetaの事務所前で抗議しました。幹部のInstagramアカウントが政府の命令で見られなくされたと主張し、7日以内に野党や記者への制限を解くよう求めています。抗議の後、2つのアカウントは戻りましたが、多くはまだ制限中だとしています。Metaがインドで制限した投稿やアカウントは、2026年前半だけで540万件を超え、前年1年分の約7万件から急増しています。",
+      "why": "政府の削除命令と言論の自由の間で、Metaが板ばさみになっています。巨大市場インドでの運営の難しさを示しています。",
+      "src": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals"
+    },
+    {
+      "co": "microsoft",
+      "headline": "欧州の消費者団体「巨大ITのルール対応は見せかけ」",
+      "body": "欧州の消費者団体BEUCは20日、EUの巨大IT規制「デジタル市場法」について報告書を出しました。Alphabet、Amazon、Apple、Meta、Microsoft、ByteDanceの6社は、今もルール違反の疑いが多く、利用者が本当に自由に選べる状態になっていないと指摘しています。たとえばMicrosoftは、データ共有に同意させるよう画面を工夫し、初期設定を変えにくくしていると批判されました。Appleの新しい開発者向け条件も、根本的な問題を解決していないとされています。報告書は欧州委員会に提出されました。",
+      "why": "欧州委員会が追加の調査や制裁金に動くきっかけになり得ます。各社の欧州でのサービスの形が変わる可能性があります。",
+      "src": "The Register",
+      "url": "https://www.theregister.com/legal/2026/11/20/big-techs-compliance-with-eu-market-rules-is-performative-consumer-group-says/5311066"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、11/27から4日間の年末セール",
+      "body": "Appleは、11月27日から30日まで（米国時間）の4日間、ブラックフライデーのセールを行うと発表しました。米国では対象のiPhoneやMac、AirPodsなどを買うと、最大300ドル分のギフトカードがもらえます。今回は初めて、AnkerやBelkinなど他社製アクセサリーも一部が対象になりました。一方、iPhone 18 ProやiPhone Duoなど新しい機種は対象外です。米国や英国、ドイツなど多くの国で実施しますが、日本で行うかは報道では確認できていません。",
+      "why": "年末商戦はAppleの売り上げが最も大きくなる時期です。株安の中で消費者の財布のひもがどうなるかが注目点です。",
+      "src": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/19/apple-announces-2026-black-friday-event/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIブームへの「疑いの目」",
+    "body": "株式市場ではAIへの巨額投資が本当に回収できるのかという不安から、GAFAMを含むハイテク株が大きく売られました。同時に、自動運転の走行禁止や欧州での規制、セキュリティの欠陥など、技術の「安全さ」や「公正さ」を問う動きも重なっています。成長の勢いだけでなく、信頼をどう示すかが各社に問われる週になりました。"
+  },
+  "calendar": [
+    { "when": "11/24（火）頃", "what": "Amazon Leoの衛星36基をアリアン6で打ち上げ予定（変更の可能性あり）", "co": "amazon" },
+    { "when": "11/27（金）", "what": "米感謝祭翌日の「ブラックフライデー」。Amazonのセールは28日（土）夕方まで", "co": "amazon" },
+    { "when": "11/27（金）夕方〜12/1（火）夕方", "what": "Appleのブラックフライデー〜サイバーマンデーのセール（米国時間11/27〜30）", "co": "apple" },
+    { "when": "11/28（土）", "what": "台湾の統一地方選挙。Threadsでの偽アカウント対策に注目", "co": "meta" },
+    { "when": "12/1（火）", "what": "Gemini開発者向け料金の一部が値上げ（米国時間11/30まで旧料金）", "co": "google" },
+    { "when": "12/1（火）〜5（土）", "what": "AWS年次イベント「re:Invent」（米国時間11/30〜12/4、ラスベガス）", "co": "amazon" }
+  ]
+}
