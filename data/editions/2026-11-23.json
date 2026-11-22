@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-23",
+  "label": "11月23日（月）号",
+  "coverage": "11月19日〜22日",
+  "minutes": 5,
+  "points": [
+    "MetaのAI「Muse」、他人の会話や個人情報が混ざると社員が懸念",
+    "GoogleのAI検索、米大都市の学校区が相次いで反発",
+    "Apple、来春にiPhone 18や新MacBookを出す計画と報道",
+    "労働組合32団体、各国政府にAmazonとの契約見直しを要求"
+  ],
+  "items": [
+    {
+      "co": "meta",
+      "headline": "MetaのAI「Muse」、他人の情報が混ざる懸念",
+      "body": "Metaの社員の間で、AIアシスタント「Muse」が別の人の会話を取り違え、個人情報を見せてしまうという懸念が出ていると、ロイターが社内の投稿をもとに報じました。天気の質問をしただけなのに、知らない人の銀行残高が表示された例や、許可していない他のアプリの内容に触れた通知が届いた例があったといいます。Metaは、社員が試しているのは一般向けとは別の版で、社内テストは開発に欠かせないと説明しています。Museは9月に登場し、1,000万回以上ダウンロードされています。",
+      "why": "AIに予定や買い物まで任せる時代、情報の取り違えは信頼を大きく損ないます。一般向け版で同じ問題がないかが注目点です。",
+      "src": "TechCrunch（ロイター報道を引用）",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+    },
+    {
+      "co": "google",
+      "headline": "GoogleのAI検索、米大都市の学校区が反発",
+      "body": "Googleは来年から、生徒用アカウントのAI機能を学校が許可しない限りオフにしますが、検索を使い続けるにはAIによる要約表示を受け入れる必要があります。これに対し、全米で大きい4つの学校区のうち3つが反発しています。ニューヨーク市は中学2年までの生徒向けAIを1年間止め、ロサンゼルスは全学年で生徒の生成AI利用を禁止。シカゴもAI要約を消す方法を探っています。元FTC委員長らは、検索とAIを抱き合わせる形が独占禁止法の問題になりうると指摘しています。",
+      "why": "学校は検索を手放せず、選べない形でAIを使わされることになります。教育現場でのAIの扱い方をめぐる議論が広がりそうです。",
+      "src": "Fortune",
+      "url": "https://fortune.com/2026/11/21/google-search-ai-overviews-schools-chicago-nyc-los-angeles-miami/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、来春にiPhone 18や新Macを投入と報道",
+      "body": "米ブルームバーグの記者によると、Appleは2027年2〜3月ごろに、iPhone 18と低価格の18e、入門向けiPad、MacBook Air、低価格のMacBook Neoの新型を発表する計画だといいます。iPhone 18と18eは新しいA20チップを積むとされます。さらに3〜4月ごろには、薄型のiPhone Air 2やiPad Air、iPad Proが続く可能性もあるとしています。いずれも報道ベースで、Appleは発表していません。秋に出る上位モデルと分けて、春に普及モデルを出す流れが定着しつつあります。",
+      "why": "発売時期が分かれば、買い替えのタイミングを考えやすくなります。ただし未確定の情報なので、正式発表を待つのが確実です。",
+      "src": "MacRumors（ブルームバーグ報道を引用）",
+      "url": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/"
+    },
+    {
+      "co": "amazon",
+      "headline": "労組32団体、政府にAmazonとの契約見直し要求",
+      "body": "19か国の労働組合32団体のトップが連名で公開書簡を出し、各国政府にAmazonやAWSとの契約を見直し、働く人の権利を守らない企業を外すよう求めました。ドイツでの長年のストライキや、カナダ・ケベック州で組合ができた後の倉庫閉鎖などを理由に挙げています。米政府機関はこの1年でAWSに35億ドル超を約束したとされます。Amazonは書簡を「意図的に誤解を招く内容」と反論しました。ブラックフライデーに合わせたストも予定されています。",
+      "why": "政府はAWSの大口顧客です。労働問題が公共の調達先選びに影響するかどうか、年末商戦のストとあわせて注目されます。",
+      "src": "UPI（Yahoo!ニュース掲載）",
+      "url": "https://www.yahoo.com/news/politics/articles/dozens-unions-urge-governments-stop-181313077.html"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Windows、ウイルス対策をOSの中心部から外へ",
+      "body": "Microsoftは、他社のウイルス対策ソフトがWindowsの心臓部（カーネル）の外側で動けるようにする仕組みを用意しました。2024年7月、CrowdStrikeの不具合ある更新で約850万台のパソコンが起動しなくなった事故を受けた対策です。心臓部の外なら、ソフトに問題があってもパソコン全体が止まりにくくなります。対応はBitdefenderやSophosが2026年10〜12月期、CrowdStrikeやMicrosoft Defender（試験版）が2027年1〜3月期の予定です。起動できなくなった時の復旧機能も強化します。",
+      "why": "会社や空港、病院などのパソコンが一斉に止まる大事故を防ぐための大きな設計変更です。各社の対応が進めば安定性が増します。",
+      "src": "Windows Latest",
+      "url": "https://windowslatest.com/2026/11/22/after-a-bad-security-update-blue-screened-millions-of-pcs-microsoft-now-lets-antivirus-run-outside-the-windows-kernel-and-windows-can-recover-if-one-breaks-startup"
+    },
+    {
+      "co": "google",
+      "headline": "Gemini、文章や写真から動くGIFを作成",
+      "body": "GoogleのAI「Gemini」で、短く繰り返す動画（GIF）を作れるようになりました。作ってほしい動きを文章で伝えるか、写真や動画を渡すと、約3秒のGIFができます。リアクション用のひな形もあり、ほかのアプリに貼ったり保存したりできます。有料プランの利用者は世界中で、無料の利用者も日本を含む8か国で順次使えるようになるとしています。ただ、ヘルプページには有料プランが必要との記載が残っており、説明が食い違っています。",
+      "why": "日本の無料利用者も対象とされる身近な新機能です。AIでの画像・動画作りが、日常のやりとりにまで広がってきています。",
+      "src": "Digital Trends",
+      "url": "https://digitaltrends.com/cool-tech/google-gemini-ai-gif-generation"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIの便利さと信頼のバランス",
+    "body": "MetaのAIが他人の情報を取り違えた問題や、Googleが学校にAI検索をセットで求めた問題など、AIを生活に組み込むほど「安心して任せられるか」が問われています。Microsoftの安全設計の見直しも含め、各社は便利さと信頼の両立を迫られています。"
+  },
+  "calendar": [
+    { "when": "11/23（月）19時ごろ", "what": "Amazon Leoの衛星36基をアリアン6で打ち上げ予定（変更の可能性あり）", "co": "amazon" },
+    { "when": "11/27（金）", "what": "米感謝祭翌日の「ブラックフライデー」。Amazonのセールは28日（土）夕方まで。労組のストも予定", "co": "amazon" },
+    { "when": "11/27（金）夕方〜12/1（火）夕方", "what": "Appleのブラックフライデー〜サイバーマンデーのセール（米国時間11/27〜30）", "co": "apple" },
+    { "when": "11/28（土）", "what": "台湾の統一地方選挙。Threadsでの偽アカウント対策に注目", "co": "meta" },
+    { "when": "12/1（火）", "what": "Gemini開発者向け料金の一部が値上げ（米国時間11/30まで旧料金）", "co": "google" },
+    { "when": "12/1（火）〜5（土）", "what": "AWS年次イベント「re:Invent」（米国時間11/30〜12/4、ラスベガス）", "co": "amazon" }
+  ]
+}
