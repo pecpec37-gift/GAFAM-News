@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-24",
+  "label": "11月24日（火）号",
+  "coverage": "11月22日〜23日",
+  "minutes": 5,
+  "points": [
+    "Nvidiaのトップ復帰でAI株が反発、Alphabetは約7%高",
+    "Meta株も6%反発、ただしモルガン・スタンレーは目標株価を下げる",
+    "Apple、赤い特別モデル「(PRODUCT)RED」を復活させると報道",
+    "Microsoft、タスク管理アプリ「To Do」を2027年6月で終了へ"
+  ],
+  "items": [
+    {
+      "co": "google",
+      "headline": "AI株が反発、Alphabetは約7%上昇",
+      "body": "23日の米国市場で、Alphabetの株価が一時7%近く上がりました。AI向け半導体大手Nvidiaが、11日前に辞任したジェンスン・フアン氏をCEOに戻すと発表し、先週売られたAI関連株に買いが戻ったためです。AlphabetはGoogle Cloudの7〜9月期の売上高が307億ドルと前年の2倍以上に伸びており、改めて注目されました。一方で、株価はなお最高値より約3割低い水準です。米モトリーフールは、今回の上昇は気分の変化による一時的なものかもしれないとみています。",
+      "why": "AI株は1人の経営者の去就で大きく揺れるほど、期待と不安が入り混じった状態です。値動きの荒さには注意が必要です。",
+      "src": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/23/why-alphabet-stock-popped-today/"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta株が6%反発、証券会社は目標を下げる",
+      "body": "Metaの株価は23日、約6%上がり595ドル台をつけました。先週は、議決権のない新しい株（クラスC株）を配る計画をめぐる株主訴訟や、AI「Muse」の個人情報問題が重なり、1週間で12.6%下がっていました。Metaは裁判が続く間はクラスC株を発行しないと裁判所に約束しています。一方、モルガン・スタンレーは同日、目標株価を820ドルから720ドルへ引き下げました。クラウド利用料などで2027年の費用が想定より140億ドル多い約2,270億ドルに膨らむとみているためです。",
+      "why": "AIへの巨額投資が利益を圧迫するのではという心配が、Metaの株価の重しになっています。費用の伸び方が今後の焦点です。",
+      "src": "GuruFocus（TradingView掲載）",
+      "url": "https://www.tradingview.com/news/gurufocus:ba61dd808094b:0-meta-platforms-stocks-rebound-6-13-after-12-6-weekly-slide-on-class-c-lawsuit/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、赤い特別モデル(RED)を復活と報道",
+      "body": "米ブルームバーグによると、Appleはエイズ対策の募金と結びついた赤い特別モデル「(PRODUCT)RED」を復活させ、スマートスピーカー「HomePod mini 2」とヘッドホン「AirPods Max 2」に用意する計画です。12月1日の世界エイズデーごろの発売が見込まれ、(RED)の取り組みが始まって20年の節目にあたります。売り上げの一部は世界エイズ・結核・マラリア対策基金に寄付されます。Appleは今年、(RED)の製品をすべて取りやめていたため、方針転換となります。正式発表はまだです。",
+      "why": "人気製品と社会貢献を結びつける取り組みの復活です。年末商戦の話題づくりにもなりそうですが、まだ報道段階です。",
+      "src": "Cult of Mac（ブルームバーグ報道を引用）",
+      "url": "https://www.cultofmac.com/news/apple-reportedly-revives-productred-with-two-launches-coming-soon"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Microsoft、「To Do」アプリを来年6月で終了",
+      "body": "Microsoftは、やることリストのアプリ「Microsoft To Do」を2027年6月30日で終えると明らかにしました。Windows、Mac、スマホ、ウェブのすべての版が使えなくなります。会社や学校のアカウントには12月から別のアプリ「Planner」に新しい画面が用意されますが、今あるリストは自動では移りません。個人向けアカウントには代わりのアプリがなく、データの書き出しだけが提供される予定です。To Doは2015年に買収した人気アプリ「Wunderlist」の後継で、利用者から不満の声が出ています。",
+      "why": "毎日使う道具が突然なくなると、乗り換えの手間が大きくなります。個人利用者は早めに移行先を考えておくと安心です。",
+      "src": "Windows Latest",
+      "url": "https://windowslatest.com/2026/11/22/do-you-actually-hate-your-users-people-are-fed-up-as-microsoft-keeps-killing-apps-they-love-from-mail-to-to-do-and-yours-could-be-next"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazon Leoの衛星打ち上げ、24日夜に延期",
+      "body": "Amazonの衛星インターネット「Amazon Leo」の衛星36基を載せた欧州のロケット「アリアン6」は、23日の予定が地上設備の技術的な問題で中止になり、日本時間24日午後7時45分ごろに改めて打ち上げを目指します。11月15日には別のロケットの失敗で衛星40基を失っており、それ以来初めての打ち上げです。Amazonは3,200基以上の衛星を計画していますが、軌道に届いたのは約400基にとどまります。先行するSpaceXのスターリンクは1万1,000基を超えています。",
+      "why": "衛星の数がサービスの質を左右します。失敗の後だけに、今回の打ち上げが予定どおり成功するかがAmazonの巻き返しのカギです。",
+      "src": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AI株は「期待」と「費用」の綱引き",
+    "body": "Nvidiaのトップ復帰をきっかけに、23日はAlphabetやMetaなどAI関連株がそろって反発しました。ただ、各社はAIのためのデータセンターに巨額の投資を続けており、Metaの目標株価引き下げのように、費用の膨らみを心配する声も根強くあります。"
+  },
+  "calendar": [
+    {
+      "when": "11/24（火）19時45分ごろ",
+      "what": "Amazon Leoの衛星36基をアリアン6で打ち上げ予定（延期後の新日程）",
+      "co": "amazon"
+    },
+    {
+      "when": "11/27（金）",
+      "what": "米感謝祭翌日の「ブラックフライデー」。Amazonのセールは28日（土）夕方まで",
+      "co": "amazon"
+    },
+    {
+      "when": "11/27（金）夕方〜12/1（火）夕方",
+      "what": "Appleのブラックフライデー〜サイバーマンデーのセール（米国時間11/27〜30）",
+      "co": "apple"
+    },
+    {
+      "when": "11/28（土）",
+      "what": "台湾の統一地方選挙。Threadsでの偽アカウント対策に注目",
+      "co": "meta"
+    },
+    {
+      "when": "12/1（火）ごろ",
+      "what": "(PRODUCT)REDのHomePod mini 2とAirPods Max 2が登場と報道（世界エイズデー）",
+      "co": "apple"
+    },
+    {
+      "when": "12/1（火）",
+      "what": "Gemini開発者向け料金の一部が値上げ（米国時間11/30まで旧料金）",
+      "co": "google"
+    },
+    {
+      "when": "12/1（火）〜5（土）",
+      "what": "AWS年次イベント「re:Invent」（米国時間11/30〜12/4、ラスベガス）",
+      "co": "amazon"
+    }
+  ]
+}
