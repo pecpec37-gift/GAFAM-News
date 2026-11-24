@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-25",
+  "label": "11月25日（水）号",
+  "coverage": "11月23日〜24日",
+  "minutes": 5,
+  "points": [
+    "Amazon、イスラエルのAI企業Decartの技術と人材を獲得。報道では約75億ドル",
+    "Microsoft、先週の大規模障害を受け社内で「コードレッド（非常事態）」を宣言",
+    "MetaのAI責任者が「超知能が到来しつつある」と投稿し、大きな反響",
+    "Googleが12月の検索順位の大型見直しを予告。Amazonの衛星36基は打ち上げ成功"
+  ],
+  "items": [
+    {
+      "co": "amazon",
+      "headline": "Amazon、AI企業Decartの技術を約75億ドルで獲得と報道",
+      "body": "Amazonは23日、イスラエルのAIスタートアップDecartの技術と、創業者や研究者のチームを迎え入れると発表しました。Decartは、AIをNvidiaやAmazon、Googleなど各社の半導体の上で速く・安く動かすためのソフトを作っています。金額は公表されていませんが、米ブルームバーグは約75億ドルと報じました。Amazonは自社開発のAI用半導体「Trainium」を外部の企業にも売る準備を進めており、その性能を引き出す狙いがあるとみられます。手続きには規制当局の承認が必要です。",
+      "why": "AIの競争は「頭脳」だけでなく、それを動かす半導体とソフトの組み合わせにも広がっています。Nvidia一強に挑むAmazonの本気度がわかります。",
+      "src": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Microsoft、大規模障害で社内に「コードレッド」",
+      "body": "ロイター通信が入手した社内メモによると、Microsoftは11月12〜13日に起きた約24時間の大規模障害を受け、社内で「コードレッド（非常事態）」を宣言しました。障害ではOutlookやTeams、Copilotが使えなくなり、日本や豪州、米国の政府機関や航空会社にも影響が出ました。原因は7月に入りこんだWindowsの不具合で、サイバー攻撃ではないと説明しています。幹部はメールサービス史上で最も影響の大きい事故と認め、今後は世界規模の障害を1時間以内に直すことを目標に、負荷を分散する仕組みなどの改善を急ぎます。",
+      "why": "多くの会社や役所が仕事の土台にしているサービスです。止まらない仕組みづくりができるかは、信頼と契約の継続に直結します。",
+      "src": "Claims Journal（ロイター配信）",
+      "url": "https://www.claimsjournal.com/news/national/2026/11/24/341515.htm"
+    },
+    {
+      "co": "meta",
+      "headline": "MetaのAI責任者「超知能が到来しつつある」",
+      "body": "MetaでAI開発を率いるアレクサンダー・ワン氏が22日、X（旧ツイッター）に「超知能（人間をはるかに超えるAI）が到来しつつある」と投稿しました。AIが自分で自分を改良し続ける状態になると、人間が制御を失うおそれがあるとも警告しています。投稿は短時間で800万回以上見られたと報じられました。ハイテク株が大きく下がった週の発言で、AIへの巨額投資を続けるMetaの姿勢を改めて示した形です。Metaは2026年に1,350億〜1,450億ドルの設備投資を見込んでいます。",
+      "why": "AI開発の最前線にいる人が「制御できなくなる危険」を口にしたことで、安全対策やルールづくりの議論がさらに強まりそうです。",
+      "src": "Fortune",
+      "url": "https://fortune.com/2026/11/23/alexandr-wang-meta-superintelligence-arriving-riemann-hypothesis-nasdaq-ai-selloff/"
+    },
+    {
+      "co": "google",
+      "headline": "Google、12月にも検索順位の大型見直しを予告",
+      "body": "Googleは24日、11月に始めた検索結果の大型見直し「コアアップデート」が完了したと発表しました。同じ日に、次の見直しを12月中に行うと事前に予告しました。日付はまだ決まっていません。長く複雑な質問への答え方や、内容の理解、一人ひとりに合わせた検索結果の改善が対象です。2か月続けての大型見直しは珍しく、事前の予告は英国の競争当局が求めるルールに沿ったものではないかという見方も出ています。",
+      "why": "検索の順位が変わると、お店やメディアのサイトに来る人の数が大きく動きます。ネットで集客する人は年末まで注意が必要です。",
+      "src": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-december-2026-core-update-42615.html"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazonの通信衛星36基、アリアン6で打ち上げ成功",
+      "body": "欧州のアリアンスペースは24日、南米フランス領ギアナから大型ロケット「アリアン6」を打ち上げ、Amazonの衛星インターネット「Amazon Leo」用の衛星36基を予定の軌道に送り届けたと発表しました。延期が続いていた打ち上げで、アリアン6は10回連続の成功です。アリアンスペースが今年打ち上げたLeo衛星は136基になりました。AmazonはSpaceXのスターリンクに対抗するため、衛星を急いで増やしています。",
+      "why": "宇宙からのネット接続は、山間部や災害時にも役立ちます。衛星の数がそろうほど、日本を含む各国でのサービス開始が近づきます。",
+      "src": "Arianespace",
+      "url": "https://newsroom.arianespace.com/arianespace-successfully-launches-another-36-amazon-leo-satellites-on-ariane-6s-10th-flight/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、(RED)20周年でNYで記念イベント",
+      "body": "Appleは、エイズ対策の基金を支援する「(RED)」との協力が20周年を迎えるのを記念し、12月1日にニューヨークのソーホー店で特別トークイベントを開きます。マーケティング責任者のグレッグ・ジョズウィアック氏らが登壇します。また米ブルームバーグは、同じころに赤いHomePod mini 2とAirPods Max 2に加え、AirPods Pro用ストラップとApple Watch用バンドの計4製品が出ると報じました。製品についてはAppleはまだ発表していません。",
+      "why": "売り上げの一部を寄付する特別モデルは、ブランドの好感度を高める取り組みです。年末商戦の話題づくりにもなります。",
+      "src": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/24/apple-soho-red-event-new-york/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AI半導体の「脱Nvidia」",
+    "body": "AmazonはDecartの技術で自社半導体Trainiumを売り込む準備を進めています。Metaも、半導体大手AMDから大量の画像処理半導体を買う代わりに、AMD株を1株0.01ドルで最大1億6,000万株受け取れる権利を持っており、AMDは23日にその株の売却に備えた届け出をしました。巨大IT各社が、Nvidia以外の選択肢を増やそうと動いています。"
+  },
+  "calendar": [
+    { "when": "11/27（金）", "what": "米感謝祭翌日の「ブラックフライデー」。Amazonのセールは28日（土）夕方まで", "co": "amazon" },
+    { "when": "11/27（金）夕方〜12/1（火）夕方", "what": "Appleのブラックフライデー〜サイバーマンデーのセール（米国時間11/27〜30）", "co": "apple" },
+    { "when": "11/28（土）", "what": "台湾の統一地方選挙。Threadsでの偽アカウント対策に注目", "co": "meta" },
+    { "when": "12/1（火）", "what": "Gemini開発者向け料金の一部が値上げ（米国時間11/30まで旧料金）", "co": "google" },
+    { "when": "12/1（火）〜5（土）", "what": "AWS年次イベント「re:Invent」（米国時間11/30〜12/4、ラスベガス）", "co": "amazon" },
+    { "when": "12/1（火）ごろ", "what": "(RED)のHomePod mini 2とAirPods Max 2などが登場と報道（世界エイズデー）", "co": "apple" },
+    { "when": "12/2（水）深夜2時", "what": "Apple、(RED)20周年の記念イベント（NYソーホー店、米東部12/1正午）", "co": "apple" }
+  ]
+}
