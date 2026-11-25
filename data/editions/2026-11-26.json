@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-26",
+  "label": "11月26日（木）号",
+  "coverage": "11月24日〜25日",
+  "minutes": 5,
+  "points": [
+    "AI株が急落しナスダックは一時約4%安。Alphabetは借金の不安を示す指標が過去最高に",
+    "Amazon、締め出していたMetaの買い物AI「Muse」の受け入れを協議中と報道",
+    "MetaのAI「Muse」がInstagramのDMに登場。日本でも利用開始",
+    "Googleは「Gemini」を連絡アプリに組み込み、AppleはiPadでmacOSを社内で動かしていると報道"
+  ],
+  "items": [
+    {
+      "co": "google",
+      "headline": "AI株が急落、Alphabetは「借金の不安」指標が最高に",
+      "body": "25日の米国市場では、ハイテク株の多いナスダック総合指数が取引時間中に約4%下がりました。AIへの巨額投資が本当に元を取れるのかという疑いに、米政府の新たな関税案や金利上昇の予想が重なりました。取引中の下げ幅はAlphabetが約5%、Amazonが5%台、Microsoftが約3%、Appleが約2%です。特にAlphabetは、会社がお金を返せなくなる危険に備える保険の値段（CDS）が過去最高になりました。7〜9月期の設備投資は514億ドルにのぼり、手元に残るお金は91億ドルの赤字でした。",
+      "why": "売上が伸びていても、お金を貸す側が投資の回収を疑い始めた合図です。各社がAI投資のペースをどう説明するかが問われます。",
+      "src": "Kitco（ロイター配信）／GuruFocus",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-25/nasdaq-sinks-about-4-ai-rout-fresh-trump-tariffs-spook-wall-st"
+    },
+    {
+      "co": "amazon",
+      "headline": "Amazon、MetaのAI「Muse」締め出し解除を協議と報道",
+      "body": "米フォーチュン誌によると、AmazonとMetaは、Metaの買い物AI「Muse」がAmazonの通販サイトで再び買い物できるようにする話し合いを続けています。Amazonは約2か月前から、Museを使った注文を受け付けないようにしていました。論点は、検索結果をどう見せるかと、広告の扱いです。Amazonは、外部のAIが代わりに買い物すると自社の広告収入やお客との直接のつながりが弱まることを心配しているとされます。合意には両社トップの承認が必要で、両社ともコメントしていません（未確定）。",
+      "why": "AIが人の代わりに買い物する時代に、ネット通販の「入り口」を誰が握るかの争いです。広告で稼ぐ仕組みにも関わります。",
+      "src": "TechCrunch（フォーチュン報道を紹介）",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    },
+    {
+      "co": "meta",
+      "headline": "MetaのAI「Muse」、InstagramのDMで使えるように",
+      "body": "Metaは24日から、AIアシスタント「Muse」をInstagramのメッセージ（DM）で使えるようにし始めました。対象は米国、カナダ、メキシコ、日本、シンガポールのiPhoneとAndroidの利用者です。投稿やリール動画をMuseに送ると、旅行の計画を立てたり、料理の動画から買い物リストを作ったりできます。読み逃したDMの会話をまとめて教えてもらうこともできます。保存した投稿を整理する機能は、まず米国とカナダだけです。インドなどへの拡大時期は決まっていません。",
+      "why": "日本も最初の対象国に入りました。毎日使うアプリにAIを入れることで、利用者をAIに慣れさせるねらいがあります。",
+      "src": "News24",
+      "url": "https://news24online.com/tech/meta-brings-muse-ai-to-instagram-dms-but-indian-users-will-have-to-wait/956773"
+    },
+    {
+      "co": "google",
+      "headline": "Google、メッセージアプリにAIの「おせっかい係」",
+      "body": "Googleは、Androidの連絡アプリ「Googleメッセージ」に入っていたAI「Gemini」との会話を、新しい「タスク」型に切り替え始めました。テスト版を使った米メディアによると、Geminiの側から毎日、予定の確認やブラックフライデーの値下げ情報、解約期限が近いサブスク、荷物の配達予定などを知らせてくれるといいます。天気などの質問や、写真・ファイルの送信も今までどおりできます。この機能は先週、米国の無料利用者にも広げられましたが、今のところ米国だけです。",
+      "why": "AIが聞かれるのを待つだけでなく、自分から動く方向に進んでいます。便利さと、個人データの使われ方の両方に注目です。",
+      "src": "9to5Google",
+      "url": "https://9to5google.com/2026/11/24/google-messages-gemini-tasks/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、iPadでmacOSを社内で動かしていると報道",
+      "body": "米ブルームバーグの記者マーク・ガーマン氏によると、Appleは社内で、iPadの上でパソコン用のmacOSを動かす試作をしばらく前から持っているそうです。ただし、一般向けに出す作業は進んでいないといいます。代わりに、動画編集ソフトなどMacの機能やアプリを少しずつiPad用の仕組みに移していく方針とされます。ガーマン氏は、欧州の規制が製品ごとのOSに合わせて決まることも、別々のOSを保つ理由になると見ています。Appleは公式には何も発表していません（報道）。",
+      "why": "「iPadをパソコン代わりにしたい」という声は根強くあります。Appleが2つの製品をどう分けるかは、買い方の判断にも関わります。",
+      "src": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/25/apple-has-ipads-running-macos-internally/"
+    },
+    {
+      "co": "apple",
+      "headline": "スマホ市場は縮小予想、それでもiPhoneが首位維持",
+      "body": "調査会社カウンターポイントは、2026年の世界のスマホ出荷台数が前年より13.9%減って約10億8,000万台になり、2027年もさらに6%減ると予想しました。AIやデータセンター向けにメモリー半導体が取られ、スマホ用が足りなくなっていることが主な原因です。そうした中でも、Appleは2026年と2027年の2年続けて出荷台数で世界1位を保つ見通しです。iPhoneの出荷は2026年に1%、2027年に4%減る予想で、2位のサムスンとの差はわずかです。",
+      "why": "AIブームがスマホの部品不足や値上げにつながっています。来年の新機種の価格や品薄にも影響しそうです。",
+      "src": "MacDailyNews（カウンターポイント調査）",
+      "url": "https://macdailynews.com/2026/11/25/apple-iphone-forecast-to-lead-smartphone-shipments-in-2026-and-2027/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIが「代わりに動く」時代の主導権争い",
+    "body": "MetaはMuseをInstagramに入れ、GoogleはGeminiが自分から知らせてくれる仕組みをメッセージアプリに広げました。一方、AmazonはMetaのAIによる買い物を止めたまま、条件を話し合っています。AIに用事を任せる流れの中で、利用者との接点と広告収入をどの会社が握るかが争点になっています。"
+  },
+  "calendar": [
+    { "when": "11/27（金）", "what": "米感謝祭翌日の「ブラックフライデー」。Amazonのセールは28日（土）夕方まで", "co": "amazon" },
+    { "when": "11/27（金）夕方〜12/1（火）夕方", "what": "Appleのブラックフライデー〜サイバーマンデーのセール（米国時間11/27〜30）", "co": "apple" },
+    { "when": "11/28（土）", "what": "台湾の統一地方選挙。Threadsでの偽アカウント対策に注目", "co": "meta" },
+    { "when": "12/1（火）", "what": "Gemini開発者向け料金の一部が値上げ（米国時間11/30まで旧料金）", "co": "google" },
+    { "when": "12/1（火）〜5（土）", "what": "AWS年次イベント「re:Invent」（米国時間11/30〜12/4、ラスベガス）", "co": "amazon" },
+    { "when": "12/1（火）ごろ", "what": "(RED)のHomePod mini 2とAirPods Max 2などが登場と報道（世界エイズデー）", "co": "apple" },
+    { "when": "12/2（水）深夜2時", "what": "Apple、(RED)20周年の記念イベント（NYソーホー店、米東部12/1正午）", "co": "apple" }
+  ]
+}
