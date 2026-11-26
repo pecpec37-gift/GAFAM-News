@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-27",
+  "label": "11月27日（金）号",
+  "coverage": "11月25日〜26日",
+  "minutes": 5,
+  "points": [
+    "Amazon株が一時6%超下落。「クラウドの利用が減っている」との分析が重荷に",
+    "MicrosoftのナデラCEO、自社AIは「半年遅れでも安ければよい」と発言",
+    "Meta、インドの野党系団体から投稿の自動削除をめぐり提訴される",
+    "Google、11月の検索順位見直しが完了。Homeアプリには新しいAI機能"
+  ],
+  "items": [
+    {
+      "co": "amazon",
+      "headline": "Amazon株が急落、クラウド利用の減速を警戒",
+      "body": "25日の米国市場でAmazon株は一時6%以上下がり、終値は3.12%安の244.43ドルでした。証券会社のバーンスタインが、AWSなど「使った分だけ払う」タイプのクラウドの利用が、11月中旬以降は7〜9月期より約16%少ないと分析したためです。来年1〜3月期のAWSの伸びが数ポイント鈍る可能性も指摘しました。同じ日はナスダック指数も約3.8%下がり、市場全体が売られました。ジャシーCEOら幹部6人が計約1,660万ドル分の株を売ったことも判明しましたが、事前に決めた計画に沿った売却です。",
+      "why": "AWSはAmazonの利益の6割を稼ぐ柱です。来週の年次イベントre:Inventで、成長が続くと示せるかが注目されます。",
+      "src": "GuruFocus（TradingView掲載）",
+      "url": "https://www.tradingview.com/news/gurufocus:c1731a248094b:0-amazon-stocks-fall-3-12-as-bernstein-flags-a-16-drop-in-cloud-web-traffic/"
+    },
+    {
+      "co": "microsoft",
+      "headline": "ナデラCEO「自社AIは半年遅れでも安ければ十分」",
+      "body": "MicrosoftのナデラCEOはニューヨーク・タイムズ主催の会議で、自社開発のAI「MAI」シリーズについて語りました。OpenAIやAnthropicの最新AIより3〜6か月遅れていても、使う計算資源が5〜20%で済むなら十分に価値があるという考えです。仕事用AIのCopilotは、作業ごとにOpenAI・Anthropic・自社のAIから自動で選ぶ仕組みで、多くの利用者は「おまかせ」のまま使っているそうです。同社は17日のイベントでMAIの新モデル7つを発表しています。",
+      "why": "最先端を追うより「安く、ほどほどに賢い」AIで勝負する方針です。OpenAIへの依存を減らす動きとしても注目です。",
+      "src": "Windows Latest",
+      "url": "https://www.windowslatest.com/2026/11/25/six-months-behind-is-a-great-place-to-be-satya-nadella-admits-microsoft-doesnt-mind-if-copilot-runs-on-ai-thats-months-behind-as-long-as-its-cheaper-and-most-users-let-it-pick/"
+    },
+    {
+      "co": "meta",
+      "headline": "Meta、インドで投稿の自動削除めぐり提訴される",
+      "body": "インドの最大野党・国民会議派の青年組織が25日、Metaとインド政府を相手取りデリー高等裁判所に訴えを起こしたと報じられました。2月に改正されたIT規則は、政府が削除を求めた投稿の「コピー」まで自動で消すよう求めています。その結果、誕生日のお祝いや結婚式の招待のような関係のない投稿まで消されたと主張しています。Metaがインドで制限した投稿は2026年1〜6月だけで540万件を超え、2025年1年間の約7万件から急増しました。",
+      "why": "政府の要請とAIによる自動削除が重なると、表現の自由が損なわれかねません。利用者の多いインドでの判断は他国にも影響します。",
+      "src": "The Next Web",
+      "url": "https://thenextweb.com/news/congress-sues-meta-india-automated-takedowns"
+    },
+    {
+      "co": "google",
+      "headline": "Google、11月の検索順位見直しが完了",
+      "body": "Googleは、11月10日に始めた検索結果の大型見直し「コアアップデート」が24日に完了したと発表しました。期間はおよそ2週間です。専門家によると影響が出始めたのは13日ごろで、同じ型のページを大量に並べたサイトの順位が下がった例が報告されています。Googleは、25日〜12月1日の流入を、見直し前の週と比べて確認するよう勧めています。ただ、この期間は感謝祭やブラックフライデーと重なるため、普段とは比べにくい点に注意が必要です。",
+      "why": "検索順位はネット通販やメディアの集客を大きく左右します。年末商戦の真っ最中に影響が確定した形です。",
+      "src": "Search Engine Journal",
+      "url": "https://searchenginejournal.com/google-november-2026-core-update-complete/598751"
+    },
+    {
+      "co": "google",
+      "headline": "Google Home更新、AIが即興でお話を作る機能",
+      "body": "Googleは25日、家電を操作するGoogle Homeアプリの更新を配り始めました。AIのGeminiに「お話をして」と頼むと物語を作り、途中で注文を出すと内容を変えてくれます。照明やエアコンなどへの指示にも速く反応し、続けて話しかけても前の話を理解するようになりました。見守りカメラのNest Camでは録画の振り返りがしやすくなり、一部の屋外カメラでは30秒間サイレンを遠くから鳴らせます。ウォルマートのカメラでも顔の見分け機能が使えるようになりました。",
+      "why": "AIを家の中の道具にも広げる動きです。スマートスピーカーをめぐるAmazonのAlexaとの競争が続きます。",
+      "src": "9to5Google",
+      "url": "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/"
+    },
+    {
+      "co": "apple",
+      "headline": "Apple、12月に中国でAI機能開始の見通し",
+      "body": "米MacRumorsが年内のApple関連の予定をまとめました。注目は、AI機能「Apple Intelligence」が12月に中国で始まる見通しであることです。中国ではアリババのAI「Qwen（通義千問）」と組むとされています。ほかにも、iOS 27.3の一般公開、App Storeの年間アワード、音楽の年間まとめ「Apple Music Replay」などが12月に予定されています。家庭用のスマート機器も12月から順次登場し、一部は2027年初めになるとみられます。",
+      "why": "中国はiPhoneの大きな市場ですが、AI機能の遅れが弱点でした。現地企業と組むことで巻き返しを図ります。",
+      "src": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/25/apple-2026-heres-whats-still-coming/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIは「高性能」から「お得さ」へ",
+    "body": "Amazonではクラウド利用の減速が警戒され、MicrosoftのナデラCEOは「少し遅れても安いAIで十分」と語りました。AIにかかる巨額の費用に見合う稼ぎがあるのか、投資家も企業も厳しく見始めています。"
+  },
+  "calendar": [
+    { "when": "11/27（金）", "what": "米感謝祭翌日の「ブラックフライデー」。Amazonのセールは28日（土）夕方まで", "co": "amazon" },
+    { "when": "11/27（金）夕方〜12/1（火）夕方", "what": "Appleのブラックフライデー〜サイバーマンデーのセール（米国時間11/27〜30）", "co": "apple" },
+    { "when": "11/28（土）", "what": "台湾の統一地方選挙。Threadsでの偽アカウント対策に注目", "co": "meta" },
+    { "when": "12/1（火）", "what": "Gemini開発者向け料金の一部が値上げ（米国時間11/30まで旧料金）", "co": "google" },
+    { "when": "12/1（火）〜5（土）", "what": "AWS年次イベント「re:Invent」（米国時間11/30〜12/4、ラスベガス）", "co": "amazon" },
+    { "when": "12/1（火）ごろ", "what": "(RED)のHomePod mini 2とAirPods Max 2などが登場と報道（世界エイズデー）", "co": "apple" },
+    { "when": "12/2（水）深夜2時", "what": "Apple、(RED)20周年の記念イベント（NYソーホー店、米東部12/1正午）", "co": "apple" }
+  ]
+}
