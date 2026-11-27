@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-28",
+  "label": "11月28日（土）号",
+  "coverage": "11月26日〜27日",
+  "minutes": 5,
+  "points": [
+    "OpenAIがAppleを逆に提訴。部品メーカーへの圧力などを主張",
+    "チリ当局がAppleに約8000万ドルの罰金を求め、App Store開放も要求",
+    "MetaのAIメガネ、オランダで販売禁止を求める裁判が始まる",
+    "米感謝祭のネット通販は過去最高の71億ドル。年末商戦が本格化"
+  ],
+  "items": [
+    {
+      "co": "apple",
+      "headline": "OpenAI、Appleを逆提訴　企業秘密めぐり対立激化",
+      "body": "ChatGPTを開発するOpenAIが27日、米カリフォルニア州の裁判所でAppleを訴えたと英フィナンシャル・タイムズが報じました。Appleが大きな資金力を使って、OpenAIと組もうとする部品メーカーに圧力をかけ、独自の機器づくりを邪魔したと主張しています。Appleに戻った元社員が、OpenAIの製品計画や取引先の情報を持ち出したとも訴えています。Appleは今年、元社員がOpenAIに機密を流したとして先に提訴しており、今回はその反撃です。Appleはまだコメントしていません。",
+      "why": "かつてiPhoneにChatGPTを載せた協力相手が、AI機器の分野で正面からぶつかる構図がはっきりしました。今後の端末競争に影響しそうです。",
+      "src": "Interesting Engineering",
+      "url": "https://interestingengineering.com/culture/openai-sues-apple-trade-secrets-supplier-dispute"
+    },
+    {
+      "co": "apple",
+      "headline": "チリ当局、Appleに約8000万ドルの罰金を要求",
+      "body": "南米チリの競争当局（FNE）が、App Storeのルールが独占禁止法に違反するとして、Appleを訴えました。iPhoneにアプリを入れる方法をApp Storeに限り、アプリ内の支払いもApple自身の仕組みに限っている点を問題視しています。当局は約8000万ドルの罰金に加え、ほかのアプリストアや別の支払い方法を認めること、外部の安い価格をアプリ内で案内できるようにすることを求めています。判断はチリの裁判所が下します。",
+      "why": "欧州や日本に続き、App Storeを開放させる動きが南米にも広がりました。手数料で稼ぐAppleのビジネスへの圧力が強まっています。",
+      "src": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/"
+    },
+    {
+      "co": "meta",
+      "headline": "MetaのAIメガネ、オランダで販売禁止求め審理",
+      "body": "カメラ付きのMetaのAIメガネをめぐり、オランダの消費者団体など3団体が起こした裁判の審理が26日、アムステルダムの地方裁判所で開かれました。団体側は、周りの人に気づかれずに動画や音声を記録できるのはプライバシーの侵害だと主張し、2団体は販売禁止を求めています。Metaは、撮影中はライトが光る仕組みがあり、悪用の責任は負えないと反論しました。判決は12月24日までに出る見通しです。",
+      "why": "スマートメガネはMetaが次の柱と期待する製品です。欧州で販売が止まれば、ほかの国のルールづくりにも波及するおそれがあります。",
+      "src": "NL Times",
+      "url": "https://nltimes.nl/2026/11/26/meta-defends-ai-glasses-court-dutch-groups-demand-ban"
+    },
+    {
+      "co": "amazon",
+      "headline": "感謝祭のネット通販、過去最高の71億ドル",
+      "body": "米アドビの調べによると、26日の感謝祭当日に米国の消費者がネットで使ったお金は71億ドルで、前年より10.4%増えて過去最高になりました。値引きの前倒しや、ゲーム・家電の人気に加え、AIを使った買い物案内も追い風になったとしています。27日のブラックフライデーは129億ドル、12月1日（日本時間）のサイバーマンデーは151億ドルと予想され、これらを含む1週間は475億ドルと過去最高の見込みです。ネット通販最大手のAmazonにとって、1年で最も大事な時期です。",
+      "why": "年末商戦の勢いは、Amazonの10〜12月期の業績を大きく左右します。株価が揺れる中、消費の強さを測る材料になります。",
+      "src": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4677049-black-friday-came-early-for-retailers-as-thanksgiving-delivered-record-71b-in-sales"
+    },
+    {
+      "co": "google",
+      "headline": "ロサンゼルスの学校、GoogleのAI要約を停止",
+      "body": "全米で2番目に大きいロサンゼルス統一学区が、生徒が使うパソコンで、Google検索の「AIによる概要」を表示しないようにしたと報じられました。生徒は約50万人です。学区は「年齢に合った安全な環境を保つため、一時的に止めた」と説明しています。Googleは、学校が許可しない限り生徒向けのAI機能をオフにする方針を示す一方、AIを完全に切ると検索も使えなくなるとの立場です。他の学区では別の検索サービスを検討する動きもあります。",
+      "why": "前に伝えた学校の反発が、実際の停止に進みました。検索とAIを一体にするGoogleの戦略に、教育現場から待ったがかかっています。",
+      "src": "The Next Web",
+      "url": "https://thenextweb.com/news/la-schools-disable-google-ai-overviews-search-standoff"
+    },
+    {
+      "co": "microsoft",
+      "headline": "Windowsの11月更新で一部のログインに不具合",
+      "body": "Microsoftは、11月のWindowsのセキュリティ更新を入れたパソコンで、ログイン（認証）が失敗する場合があると認めました。危険度の高い弱点をふさぐため、「NTLM」という古い認証の仕組みを厳しくしたことが原因です。この仕組みを正しく使っていない他社製の認証サーバーや、まとめてログインできるサービスなどで問題が起きます。根本的な修正はまだで、当面は設定を変える回避策を案内しています。",
+      "why": "安全のための更新が、企業の業務を止める副作用を生みました。大規模障害が続いたMicrosoftにとって、信頼回復の課題がまた一つ増えた形です。",
+      "src": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/"
+    }
+  ],
+  "trend": {
+    "title": "今週の横串：AIの広がりに「待った」",
+    "body": "OpenAIとAppleの法廷闘争、オランダのAIメガネ裁判、ロサンゼルスの学校によるAI要約の停止と、AI製品をめぐる対立が各地で表面化しました。各社がAIを製品の中心に据えるほど、ライバルや利用者、規制側との摩擦も大きくなっています。"
+  },
+  "calendar": [
+    { "when": "11/28（土）", "what": "台湾の統一地方選挙。Threadsでの偽アカウント対策に注目", "co": "meta" },
+    { "when": "〜12/1（火）夕方", "what": "Appleのブラックフライデー〜サイバーマンデーのセール（米国時間11/27〜30）", "co": "apple" },
+    { "when": "12/1（火）", "what": "米サイバーマンデー（米国時間11/30）。ネット通販は151億ドルと予想", "co": "amazon" },
+    { "when": "12/1（火）", "what": "Gemini開発者向け料金の一部が値上げ（米国時間11/30まで旧料金）", "co": "google" },
+    { "when": "12/1（火）〜5（土）", "what": "AWS年次イベント「re:Invent」（米国時間11/30〜12/4、ラスベガス）", "co": "amazon" },
+    { "when": "12/1（火）ごろ", "what": "(RED)のHomePod mini 2とAirPods Max 2などが登場と報道（世界エイズデー）", "co": "apple" },
+    { "when": "12/2（水）深夜2時", "what": "Apple、(RED)20周年の記念イベント（NYソーホー店、米東部12/1正午）", "co": "apple" }
+  ]
+}
